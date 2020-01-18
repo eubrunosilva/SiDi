@@ -82,7 +82,6 @@ Arcade Games
 |Van Van Car|VanVanCar_20200118.rbf||
 |Vortex|Vortex_20200118.rbf||
 |Woodpecker|Woodpecker_20200118.rbf||
-|Xevious|Xevious_20200118.rbf|XEVIOUS.ROM / 
-SXEVIOUS.ROM|
+|Xevious|Xevious_20200118.rbf||
 |Zaxxon|Zaxxon_20200118.rbf|ZAXXON.ROM|
 |Zig Zag|ZigZag_20200118.rbf||
