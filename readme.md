@@ -6,7 +6,7 @@ SiDi is based on MiST with a different FPGA. Original sources from MiST project
 
 Oficial Arcade Cores repository: [https://github.com/Gehstock/Mist_FPGA](https://github.com/Gehstock/Mist_FPGA)
 
-Arcade Games (133)
+Arcade Games (135)
 
 |Game|rbf|Rom Needed|
 |-|-|-|
@@ -110,6 +110,8 @@ Arcade Games (133)
 |Sky Skipper|SkySkipper_20200118.rbf|SKYSKIP.ROM|
 |Snapjack|Snapjack_20200118.rbf||
 |Solar Fox|SolarFox_20200118.rbf|SOLARFOX.ROM|
+|Space Invaders|SpaceInvaders_20200119.rbf||
+|Space Invaders 2|SpaceInvaders2_20200119.rbf||
 |Space Laser|SpaceLaser_20200119.rbf||
 |Speed Coin|SpeedCoin_20200118.rbf||
 |Splat|Splat_20200119.rbf|SPLAT.ROM|
