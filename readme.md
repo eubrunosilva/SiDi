@@ -155,40 +155,61 @@ Arcade Games (144)
 |Zaxxon|Zaxxon_20200118.rbf|ZAXXON.ROM|
 |Zig Zag|ZigZag_20200118.rbf||
 
-Console Cores (3)
+Console Cores (9)
 
 |Core|rbf|Rom Needed|
 |-|-|-|
+|Astrocade|Astrocade_20200125.rbf||
+|Atari 2600|A2600_20200125.rbf||
+|Colecovision|Coleco_20200125.rbf||
 |Gameboy|gameboy_20200124.rbf||
 |NES|NES_20200120.rbf||
 |NES (mist-board)|NES_20200124.rbf||
+|PCE|PCE_20200125.rbf||
+|Sega Master System|SMS_20200125.rbf||
+|VideoPac|Videopac_20200125.rbf||
 
-Computer Cores (14)
+Computer Cores (23)
 
 |Core|rbf|Rom Needed|
 |-|-|-|
+|Acorn Archimedes|Archie_20200125.rbf|riscos.rom|
 |Acorn BBC|bbc_20200123.rbf|bbc.vhd (beeb.mmb)|
 |Amstrad|Amstrad_20200120.rbf|amstrad.rom|
 |Apogee|Apoge_20200120.rbf|apogee.rom|
+|Aquarius|Aquarius_20200125.rbf||
+|Atari ST|Mistery_20200125.rbf|tos.img|
 |BK0011M|BK0011M_20200120.rbf|bk0011m.rom|
+|Chip 8|Chip8_20200126.rbf||
 |Commodore C16|c16_20200123.rbf|c16.rom|
+|Commodore C64|c64_20200125.rbf|c64.rom|
 |Commodore Pet2001|Pet2001_20200120.rbf||
 |Commodore VIC20|VIC20_20200120.rbf|vic20.rom|
 |MSX|MSX_20200123.rbf||
+|Multicomp|Multicomp_20200125.rbf||
 |Oric Atmos|Oric_20200120.rbf||
+|PlusToo|PlusToo_20200125.rbf|disk605.dsk - plus_too.rom|
 |SAMCoupe|SAMCoupe_20200120.rbf|samcoupe.rom|
+|Sinclair ZX8x|ZX8x_20200125.rbf|zx8x.rom|
 |Specialist|Specialist_20200120.rbf|spmx.rom|
 |Spectrum QL|QL_20200124.rbf|ql.rom|
 |Spectrum128k|Spectrum128k_20200120.rbf||
+|TRS80|trs80_20200125.rbf||
 |Vector06|Vector06_20200120.rbf||
 
 Cores were compiled from the following repositories
 
+[]()
+[https://bitbucket.org/csoren/fpga-chip8/](https://bitbucket.org/csoren/fpga-chip8/)
 [https://github.com/Gehstock/Mist_FPGA](https://github.com/Gehstock/Mist_FPGA)
+[https://github.com/gyurco/FPGAPCE](https://github.com/gyurco/FPGAPCE)
 [https://github.com/gyurco/MSX_MiST](https://github.com/gyurco/MSX_MiST)
+[https://github.com/gyurco/SMS_MiSTer](https://github.com/gyurco/SMS_MiSTer)
 [https://github.com/gyurco/VIC20_MiST](https://github.com/gyurco/VIC20_MiST)
+[https://github.com/gyurco/ZX8X_MiST](https://github.com/gyurco/ZX8X_MiST)
 [https://github.com/jotego/jt_gng](https://github.com/jotego/jt_gng)
 [https://github.com/mist-devel/mist-board](https://github.com/mist-devel/mist-board)
+[https://github.com/sebdel/mist-cores](https://github.com/sebdel/mist-cores)
 [https://github.com/sorgelig/Amstrad_MiST](https://github.com/sorgelig/Amstrad_MiST)
 [https://github.com/sorgelig/Apogee_MIST](https://github.com/sorgelig/Apogee_MIST)
 [https://github.com/sorgelig/BK0011M_MIST](https://github.com/sorgelig/BK0011M_MIST)
@@ -197,3 +218,6 @@ Cores were compiled from the following repositories
 [https://github.com/sorgelig/Specialist_MIST](https://github.com/sorgelig/Specialist_MIST)
 [https://github.com/sorgelig/Vector06_MIST](https://github.com/sorgelig/Vector06_MIST)
 [https://github.com/sorgelig/ZX_Spectrum-128K_MIST](https://github.com/sorgelig/ZX_Spectrum-128K_MIST)
+[https://github.com/wsoltys/mist-cores](https://github.com/wsoltys/mist-cores)
+[https://github.com/wsoltys/multicomp](https://github.com/wsoltys/multicomp)
+[https://github.com/wsoltys/tca2601](https://github.com/wsoltys/tca2601)
