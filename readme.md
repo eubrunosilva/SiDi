@@ -6,7 +6,7 @@ SiDi is based on MiST with a different FPGA. Original sources from MiST project
 
 Core filenames have the compilation date not the original release core date
 
-Arcade Games (144)
+Arcade Games (145)
 
 |Game|rbf|Rom Needed|
 |-|-|-|
@@ -17,18 +17,19 @@ Arcade Games (144)
 |Amidar|Amidar_20200118.rbf||
 |Armored Car|ArmoredCar_20200118.rbf||
 |Azurian Attack|AzurianAttack_20200118.rbf||
-|Bagman|Bagman_20200118.rbf||
+|Bagman|Bagman_20200127.rbf||
 |Berzerk|Berzerk_20200118.rbf||
 |Birdiy|Birdiy_20200118.rbf||
 |Black Hole|BlackHole_20200118.rbf||
 |Black Tiger|jtbtiger_20200124.rbf|JTBTIGER.rom|
 |Black Widow|BlackWidow_20200119.rbf|BWIDOW.ROM|
 |Bomb Jack|BombJack_20200118.rbf|BOMBJACK.ROM|
-|Botanic|Botanic_20200118.rbf||
+|Botanic|Botanic_20200127.rbf||
 |Bubbles|Bubbles_20200119.rbf|BUBBLES.ROM|
 |Burger Time|BurgerTime_20200118.rbf||
 |Burnin Rubber|BurninRubber_20200118.rbf||
 |Calipso|Calipso_20200119.rbf||
+|Cannon Ball|CannonBall_20200127.rbf||
 |Canyon Bomber|CanyonBomber_20200118.rbf||
 |Capitol|Capitol_20200118.rbf||
 |Catacomb|Catacomb_20200118.rbf||
@@ -37,8 +38,8 @@ Arcade Games (144)
 |Colony7|Colony7_20200119.rbf|COLONY7.ROM|
 |Cosmic Avenger|CosmicAvenger_20200118.rbf||
 |Crater Raider|CraterRaider_20200118.rbf|CRATER.ROM|
-|Crazy Climber|CrazyClimber_20200119.rbf||
-|Crazy Kong|CrazyKong_20200118.rbf||
+|Crazy Climber|CrazyClimber_20200127.rbf||
+|Crazy Kong|CrazyKong_20200127.rbf||
 |Crush Roller|CrushRoller_20200118.rbf||
 |Defender|Defender_20200119.rbf|DEFENDER.ROM|
 |Demolition Derby|DemolitionDerby_20200118.rbf|DDERBY.ROM|
@@ -96,23 +97,23 @@ Arcade Games (144)
 |Pacman Plus|PacmanPlus_20200118.rbf||
 |Pengo|Pengo_20200118.rbf||
 |Phoenix|Phoenix_20200118.rbf||
-|Pickin|Pickin_20200118.rbf||
+|Pickin|Pickin_20200127.rbf||
 |Pisces|Pisces_20200118.rbf||
 |Pleiads|Pleiads_20200118.rbf||
 |Ponpoko|Ponpoko_20200118.rbf||
-|Pooyan|Pooyan_20200123.rbf|POOYAN.ROM|
-|Popeye|Popeye_20200118.rbf|POPEYE.ROM|
+|Pooyan|Pooyan_20200127.rbf|POOYAN.ROM|
+|Popeye|Popeye_20200127.rbf|POPEYE.ROM|
 |Power Drive|PowerDrive_20200119.rbf|POWERDRV.ROM|
-|Power Surge|PowerSurge_20200124.rbf|PSURGE.ROM|
+|Power Surge|PowerSurge_20200127.rbf|PSURGE.ROM|
 |Rally X|RallyX_20200118.rbf||
 |Rampage|Rampage_20200119.rbf|RAMPAGE.ROM|
-|River Patrol|RiverPatrol_20200118.rbf||
+|River Patrol|RiverPatrol_20200127.rbf||
 |Robotron|Robotron_20200119.rbf|ROBOTRON.ROM|
 |Rush n Attack|RushnAttack_20200119.rbf|RUSHNA.ROM|
 |Sarge|Sarge_20200119.rbf|SARGE.ROM|
 |Scramble|Scramble_20200118.rbf||
 |Shot Rider|ShotRider_20200119.rbf|SHTRIDER.ROM|
-|Silver Land|SilverLand_20200118.rbf||
+|Silver Land|SilverLand_20200127.rbf||
 |Sinistar|Sinistar_20200119.rbf|SINISTAR.ROM|
 |Sky Skipper|SkySkipper_20200118.rbf|SKYSKIP.ROM|
 |Snapjack|Snapjack_20200118.rbf||
@@ -125,9 +126,9 @@ Arcade Games (144)
 |Sprint 2|Sprint2_20200118.rbf||
 |Sprint One|SprintOne_20200118.rbf||
 |Spy Hunter|SpyHunter_20200118.rbf|SHUNTER.ROM|
-|Squash|Squash_20200118.rbf||
+|Squash|Squash_20200127.rbf||
 |Stargate|Stargate_20200119.rbf|STARGATE.ROM|
-|Super Bagman|SuperBagman_20200119.rbf|SBAGMAN.ROM|
+|Super Bagman|SuperBagman_20200127.rbf|SBAGMAN.ROM|
 |Super Breakout|SuperBreakout_20200118.rbf||
 |Super Cobra|SuperCobra_20200118.rbf||
 |Super Earth Invasion|SuperEarthInvasion_20200119.rbf||
@@ -139,7 +140,7 @@ Arcade Games (144)
 |The End|TheEnd_20200118.rbf||
 |The Tower of Druga|TowerofDruga_20200119.rbf|DRUAGA.ROM|
 |Timber|Timber_20200118.rbf|TIMBER.ROM|
-|Time Pilot|TimePilot_20200123.rbf|TIMEPLT.ROM|
+|Time Pilot|TimePilot_20200127.rbf|TIMEPLT.ROM|
 |TraverseUSA|TraverseUSA_20200119.rbf|TRAVERSE.ROM|
 |Triple Draw Poker|TripleDrawPoker_20200118.rbf||
 |Tropical Angel|TropicalAngel_20200118.rbf|TROPANG.ROM|
@@ -178,7 +179,7 @@ Computer Cores (23)
 |Amstrad|Amstrad_20200120.rbf|amstrad.rom|
 |Apogee|Apoge_20200120.rbf|apogee.rom|
 |Aquarius|Aquarius_20200125.rbf||
-|Atari ST|Mistery_20200125.rbf|tos.img|
+|Atari ST|Mistery_20200125.rbf|tos.img - system.fnt - disk_a.st|
 |BK0011M|BK0011M_20200120.rbf|bk0011m.rom|
 |Chip 8|Chip8_20200126.rbf||
 |Commodore C16|c16_20200123.rbf|c16.rom|
@@ -200,24 +201,46 @@ Computer Cores (23)
 Cores were compiled from the following repositories
 
 []()
+
 [https://bitbucket.org/csoren/fpga-chip8/](https://bitbucket.org/csoren/fpga-chip8/)
+
 [https://github.com/Gehstock/Mist_FPGA](https://github.com/Gehstock/Mist_FPGA)
+
 [https://github.com/gyurco/FPGAPCE](https://github.com/gyurco/FPGAPCE)
+
 [https://github.com/gyurco/MSX_MiST](https://github.com/gyurco/MSX_MiST)
+
 [https://github.com/gyurco/SMS_MiSTer](https://github.com/gyurco/SMS_MiSTer)
+
 [https://github.com/gyurco/VIC20_MiST](https://github.com/gyurco/VIC20_MiST)
+
 [https://github.com/gyurco/ZX8X_MiST](https://github.com/gyurco/ZX8X_MiST)
+
 [https://github.com/jotego/jt_gng](https://github.com/jotego/jt_gng)
+
 [https://github.com/mist-devel/mist-board](https://github.com/mist-devel/mist-board)
+
 [https://github.com/sebdel/mist-cores](https://github.com/sebdel/mist-cores)
+
 [https://github.com/sorgelig/Amstrad_MiST](https://github.com/sorgelig/Amstrad_MiST)
+
 [https://github.com/sorgelig/Apogee_MIST](https://github.com/sorgelig/Apogee_MIST)
+
 [https://github.com/sorgelig/BK0011M_MIST](https://github.com/sorgelig/BK0011M_MIST)
+
 [https://github.com/sorgelig/NES_MIST](https://github.com/sorgelig/NES_MIST)
+
 [https://github.com/sorgelig/SAMCoupe_MIST](https://github.com/sorgelig/SAMCoupe_MIST)
+
 [https://github.com/sorgelig/Specialist_MIST](https://github.com/sorgelig/Specialist_MIST)
+
 [https://github.com/sorgelig/Vector06_MIST](https://github.com/sorgelig/Vector06_MIST)
+
 [https://github.com/sorgelig/ZX_Spectrum-128K_MIST](https://github.com/sorgelig/ZX_Spectrum-128K_MIST)
+
 [https://github.com/wsoltys/mist-cores](https://github.com/wsoltys/mist-cores)
+
 [https://github.com/wsoltys/multicomp](https://github.com/wsoltys/multicomp)
+
 [https://github.com/wsoltys/tca2601](https://github.com/wsoltys/tca2601)
+
