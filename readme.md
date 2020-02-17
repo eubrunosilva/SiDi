@@ -6,155 +6,171 @@ SiDi is based on MiST with a different FPGA. Original sources from MiST project
 
 Core filenames have the compilation date not the original release core date
 
-Arcade Games (145)
+Arcade Games (161)
 
-|Game|rbf|Rom Needed|
-|-|-|-|
-|1942|jt1942_20200123.rbf|JT1942.rom|
-|1943|jt1943_20200123.rbf|JT1943.rom|
-|2048|2048_20200118.rbf||
-|Alibaba|Alibaba_20200118.rbf||
-|Amidar|Amidar_20200118.rbf||
-|Armored Car|ArmoredCar_20200118.rbf||
-|Azurian Attack|AzurianAttack_20200118.rbf||
-|Bagman|Bagman_20200127.rbf||
-|Berzerk|Berzerk_20200118.rbf||
-|Birdiy|Birdiy_20200118.rbf||
-|Black Hole|BlackHole_20200118.rbf||
-|Black Tiger|jtbtiger_20200124.rbf|JTBTIGER.rom|
-|Black Widow|BlackWidow_20200119.rbf|BWIDOW.ROM|
-|Bomb Jack|BombJack_20200118.rbf|BOMBJACK.ROM|
-|Botanic|Botanic_20200127.rbf||
-|Bubbles|Bubbles_20200119.rbf|BUBBLES.ROM|
-|Burger Time|BurgerTime_20200118.rbf||
-|Burnin Rubber|BurninRubber_20200118.rbf||
-|Calipso|Calipso_20200119.rbf||
-|Cannon Ball|CannonBall_20200127.rbf||
-|Canyon Bomber|CanyonBomber_20200118.rbf||
-|Capitol|Capitol_20200118.rbf||
-|Catacomb|Catacomb_20200118.rbf||
-|Centipede|Centipede_20200118.rbf||
-|ChewingGum|ChewingGum_20200118.rbf||
-|Colony7|Colony7_20200119.rbf|COLONY7.ROM|
-|Cosmic Avenger|CosmicAvenger_20200118.rbf||
-|Crater Raider|CraterRaider_20200118.rbf|CRATER.ROM|
-|Crazy Climber|CrazyClimber_20200127.rbf||
-|Crazy Kong|CrazyKong_20200127.rbf||
-|Crush Roller|CrushRoller_20200118.rbf||
-|Defender|Defender_20200119.rbf|DEFENDER.ROM|
-|Demolition Derby|DemolitionDerby_20200118.rbf|DDERBY.ROM|
-|Devil Fish|DevilFish_20200118.rbf||
-|Dig Dug|DigDug_20200118.rbf|DIGDUG.ROM|
-|Dig Dug 2|DigDug2_20200119.rbf|DIGDUG2.ROM|
-|Discs of Tron|DiscsOfTron_20200118.rbf|DOTRON.ROM|
-|Dominos|Dominos_20200118.rbf||
-|Donkey Kong|DonkeyKong_20200119.rbf||
-|Donkey Kong Jr.|DonkeyKongJr_20200119.rbf||
-|Dorodon|Dorodon_20200119.rbf||
-|Dottori Kun|DottoriKun_20200119.rbf||
-|Draw Poker|DrawPoker_20200118.rbf|DPOKER.ROM|
-|Dream Shopper|DreamShopper_20200118.rbf||
-|Eeekk|Eeekk_20200118.rbf||
-|Eggor|Eggor_20200119.rbf||
-|Eyes|Eyes_20200119.rbf||
-|Frenzy|Frenzy_20200118.rbf||
-|Frogger|Frogger_20200118.rbf||
-|Galaga|Galaga_20200118.rbf||
-|Galaxian|Galaxian_20200118.rbf||
-|Ghosts'n Goblins|jtgng_20200123.rbf|JTGNG.ROM|
-|Gorkans|Gorkans_20200118.rbf||
-|Gravitar|Gravitar_20200119.rbf|GRAVITAR.ROM|
-|Green Beret|GreenBeret_20200119.rbf|GBERET.ROM|
-|Gun Fight|GunFight_20200118.rbf||
-|Gun Smoke|jtgunsmoke_20200123.rbf|JTGUN.ROM|
-|Jin|Jin_20200119.rbf|JIN.ROM|
-|Joust|Joust_20200119.rbf|JOUST.ROM|
-|Kickman|Kickman_20200118.rbf|KICKMAN.ROM|
-|King Ballon|KingBallon_20200118.rbf||
-|Lady Bug|LadyBug_20200118.rbf||
-|Lizard Wizard|LizardWizard_20200118.rbf||
-|Lunar Lander|LunarLander_20200118.rbf|LLANDER.ROM|
-|Lunar Rescue|LunarRescue_20200118.rbf||
-|Manic Miner|PacManicMiner_20200118.rbf||
-|Mappy|Mappy_20200119.rbf|MAPPY.ROM|
-|Max RPM|MaxRPM_20200119.rbf|MAXRPM.ROM|
-|Mayday|Mayday_20200119.rbf|MAYDAY.ROM|
-|Moon Cresta|MoonCresta_20200118.rbf||
-|Moon Patrol|MoonPatrol_20200119.rbf||
-|Moon War|MoonWar_berzerk_20200118.rbf||
-|Moon War|MoonWar_konami_20200118.rbf||
-|Motos|Motos_20200119.rbf|MOTOS.ROM|
-|Mr Do Nightmare|MrDoNightmare_20200118.rbf||
-|Mr TNT|MrTNT_20200118.rbf||
-|Mr. Goemon|MrGoemon_20200119.rbf|MRGOEMON.ROM|
-|Ms Pacman|MsPacman_20200118.rbf||
-|Ninja Kun|NinjaKun_20200118.rbf|NINJAKUN.ROM|
-|Omega|Omega_20200118.rbf||
-|Orbitron|Orbitron_20200118.rbf||
-|Ozma Wars|OzmaWars_20200119.rbf||
-|Pacman|Pacman_20200118.rbf||
-|Pacman Club|PacmanClub_20200118.rbf||
-|Pacman Plus|PacmanPlus_20200118.rbf||
-|Pengo|Pengo_20200118.rbf||
-|Phoenix|Phoenix_20200118.rbf||
-|Pickin|Pickin_20200127.rbf||
-|Pisces|Pisces_20200118.rbf||
-|Pleiads|Pleiads_20200118.rbf||
-|Ponpoko|Ponpoko_20200118.rbf||
-|Pooyan|Pooyan_20200127.rbf|POOYAN.ROM|
-|Popeye|Popeye_20200127.rbf|POPEYE.ROM|
-|Power Drive|PowerDrive_20200119.rbf|POWERDRV.ROM|
-|Power Surge|PowerSurge_20200127.rbf|PSURGE.ROM|
-|Rally X|RallyX_20200118.rbf||
-|Rampage|Rampage_20200119.rbf|RAMPAGE.ROM|
-|River Patrol|RiverPatrol_20200127.rbf||
-|Robotron|Robotron_20200119.rbf|ROBOTRON.ROM|
-|Rush n Attack|RushnAttack_20200119.rbf|RUSHNA.ROM|
-|Sarge|Sarge_20200119.rbf|SARGE.ROM|
-|Scramble|Scramble_20200118.rbf||
-|Shot Rider|ShotRider_20200119.rbf|SHTRIDER.ROM|
-|Silver Land|SilverLand_20200127.rbf||
-|Sinistar|Sinistar_20200119.rbf|SINISTAR.ROM|
-|Sky Skipper|SkySkipper_20200118.rbf|SKYSKIP.ROM|
-|Snapjack|Snapjack_20200118.rbf||
-|Solar Fox|SolarFox_20200118.rbf|SOLARFOX.ROM|
-|Space Invaders|SpaceInvaders_20200119.rbf||
-|Space Invaders 2|SpaceInvaders2_20200119.rbf||
-|Space Laser|SpaceLaser_20200119.rbf||
-|Speed Coin|SpeedCoin_20200118.rbf||
-|Splat|Splat_20200119.rbf|SPLAT.ROM|
-|Sprint 2|Sprint2_20200118.rbf||
-|Sprint One|SprintOne_20200118.rbf||
-|Spy Hunter|SpyHunter_20200118.rbf|SHUNTER.ROM|
-|Squash|Squash_20200127.rbf||
-|Stargate|Stargate_20200119.rbf|STARGATE.ROM|
-|Super Bagman|SuperBagman_20200127.rbf|SBAGMAN.ROM|
-|Super Breakout|SuperBreakout_20200118.rbf||
-|Super Cobra|SuperCobra_20200118.rbf||
-|Super Earth Invasion|SuperEarthInvasion_20200119.rbf||
-|Super Glob|SuperGlob_20200118.rbf||
-|Survival|Survival_20200118.rbf||
-|Tapper|Tapper_20200118.rbf|TAPPER.ROM|
-|Tazz Mania|TazzMania_20200118.rbf||
-|Tetris|Tetris_20200118.rbf|TETRIS.ROM|
-|The End|TheEnd_20200118.rbf||
-|The Tower of Druga|TowerofDruga_20200119.rbf|DRUAGA.ROM|
-|Timber|Timber_20200118.rbf|TIMBER.ROM|
-|Time Pilot|TimePilot_20200127.rbf|TIMEPLT.ROM|
-|TraverseUSA|TraverseUSA_20200119.rbf|TRAVERSE.ROM|
-|Triple Draw Poker|TripleDrawPoker_20200118.rbf||
-|Tropical Angel|TropicalAngel_20200118.rbf|TROPANG.ROM|
-|Ultra Tank|UltraTank_20200118.rbf||
-|Uniwar S|UniwarS_20200118.rbf||
-|Van Van Car|VanVanCar_20200118.rbf||
-|Victory|Victory_20200118.rbf||
-|Vortex|Vortex_20200118.rbf||
-|Vulgus|jtvulgus_20200124.rbf|JTVULGUS.ROM|
-|War Of Bugs|WarOfBugs_20200118.rbf||
-|Woodpecker|Woodpecker_20200118.rbf||
-|Xevious|Xevious_20200118.rbf|XEVIOUS.ROM - SXEVIOUS.ROM|
-|Zaxxon|Zaxxon_20200118.rbf|ZAXXON.ROM|
-|Zig Zag|ZigZag_20200118.rbf||
+|Game|rbf|Rom Needed|Arc Files|
+|-|-|-|-|
+|1942|jt1942_20200123.rbf|JT1942.rom|-|
+|1943|jt1943_20200123.rbf|JT1943.rom|-|
+|2048|2048_20200118.rbf||-|
+|Alibaba|Alibaba_20200118.rbf||-|
+|Alien Arena|ROBOTRON.RBF (20200216)|ALIENARU.ROM|Yes|
+|Amidar|SCRAMBLE.RBF (20200216)|AMIDARS.ROM|Yes|
+|Anteater|SCRAMBLE.RBF (20200216)|ANTEATER.ROM|Yes|
+|Arkanoid|Arkanoid_.rbf||-|
+|Armored Car|SCRAMBLE.RBF (20200216)|ARMORCAR.ROM|Yes|
+|Azurian|AzurianAttack_20200118.rbf||-|
+|Bagman|Bagman_20200127.rbf||-|
+|Battle of Atlantis|SCRAMBLE.RBF (20200216)|ATLANTIS.ROM|Yes|
+|Berzerk|Berzerk_20200118.rbf||-|
+|Birdiy|Birdiy_20200118.rbf||-|
+|Black Hole|BlackHole_20200118.rbf||-|
+|Black Tiger|jtbtiger_20200124.rbf|JTBTIGER.rom|-|
+|Black Widow|BlackWidow_20200119.rbf|BWIDOW.ROM|-|
+|Bomb Jack|BombJack_20200118.rbf|BOMBJACK.ROM|-|
+|Botanic|Botanic_20200127.rbf||-|
+|Bubbles|ROBOTRON.RBF (20200216)|BUBBLES.ROM|Yes|
+|Burger Time|BurgerTime_20200118.rbf||-|
+|Burning Rubber|BurninRubber_20200118.rbf||-|
+|Calipso|SCRAMBLE.RBF (20200216)|CALIPSO.ROM|Yes|
+|Cannon Ball|CannonBall_20200127.rbf||-|
+|Canyon Bomber|CanyonBomber_20200118.rbf||-|
+|Capitol|Capitol_20200118.rbf||-|
+|Catacomb|Catacomb_20200118.rbf||-|
+|Centipede|Centipede_20200118.rbf||-|
+|ChewingGum|ChewingGum_20200118.rbf||-|
+|Colony7|DEFENDER.RBF (20200216)|COLONY7.ROM|Yes|
+|Computer Space|ComputerSpace_20200216.rbf||-|
+|Cosmic Avenger|CosmicAvenger_20200118.rbf||-|
+|Crater Raider|CraterRaider_20200216.rbf|CRATER.ROM|-|
+|Crazy Climber|CrazyClimber_20200127.rbf||-|
+|Crazy Kong|CrazyKong_20200127.rbf||-|
+|CrushRoller|CrushRoller_20200118.rbf||-|
+|Dark Planet|SCRAMBLE.RBF (20200216)|DARKPLNT.ROM|Yes|
+|Defender|DEFENDER.RBF (20200216)|DEFENDER.ROM|Yes|
+|Demolition Derby|DemolitionDerby_20200118.rbf|DDERBY.ROM|-|
+|Devil Fish|DevilFish_20200118.rbf||-|
+|Dig Dug|DigDug_20200118.rbf|DIGDUG.ROM|-|
+|Dig Dug II|DRUAGA.RBF (20200216)|DIGDUG2.ROM|Yes|
+|Disc of tron|DiscsOfTron_20200118.rbf|DOTRON.ROM|-|
+|Domino Man|MCR2.RBF (20200216)|DOMINO.ROM|Yes|
+|Dominos|Dominos_20200118.rbf||-|
+|Donkey Kong|DonkeyKong_20200119.rbf||-|
+|Donkey Kong Junior|DonkeyKongJr_20200119.rbf||-|
+|Dorodon|Dorodon_20200119.rbf||-|
+|Dottori Kun|DottoriKun_20200119.rbf||-|
+|Draw Poker|DrawPoker_20200118.rbf|DPOKER.ROM|-|
+|Dream Shopper|DreamShopper_20200118.rbf||-|
+|Eeekk|Eeekk_20200118.rbf||-|
+|Eggor|Eggor_20200119.rbf||-|
+|Eyes|Eyes_20200119.rbf||-|
+|Frenzy|Frenzy_20200118.rbf||-|
+|Frogger|SCRAMBLE.RBF (20200216)|FROGGER.ROM|Yes|
+|Galaga|Galaga_20200118.rbf||-|
+|Galaxian|Galaxian_20200118.rbf||-|
+|Ghosts'n Goblins|jtgng_20200123.rbf|JTGNG.ROM|-|
+|Gorkans|Gorkans_20200118.rbf||-|
+|Gravitar|Gravitar_20200119.rbf|GRAVITAR.ROM|-|
+|Green Beret|GBERET.RBF (20200216)|GBERET.ROM|Yes|
+|Gun Fight|GunFight_20200118.rbf||-|
+|Jin|DEFENDER.RBF (20200216)|JIN.ROM|Yes|
+|Joust|ROBOTRON.RBF (20200216)|JOUST.ROM|Yes|
+|Kickman|Kickman_20200118.rbf|KICKMAN.ROM|-|
+|King Ballon|KingBallon_20200118.rbf||-|
+|Kozmik Kroozr|MCR2.RBF (20200216)|KROOZR.ROM|Yes|
+|Lady Bug|LadyBug_20200118.rbf||-|
+|Lizard Wizard|LizardWizard_20200118.rbf||-|
+|Lost Tomb|SCRAMBLE.RBF (20200216)|LOSTTOMB.ROM|Yes|
+|Lunar Lander|LunarLander_20200118.rbf|LLANDER.ROM|-|
+|Lunar Rescue|LunarRescue_20200118.rbf||-|
+|Mappy|DRUAGA.RBF (20200216)|MAPPY.ROM|Yes|
+|Mars|SCRAMBLE.RBF (20200216)|MARS.ROM|Yes|
+|MaxRPM|MCR3MONO.RBF (20200216)|MAXRPM.ROM|Yes|
+|Mayday|DEFENDER.RBF (20200216)|MAYDAY.ROM|Yes|
+|Mighty Monkey|SCRAMBLE.RBF (20200216)|MIGHTY_M.ROM|Yes|
+|Minefield|SCRAMBLE.RBF (20200216)|MINEFLD.ROM|Yes|
+|Moon Cresta|MoonCresta_20200118.rbf||-|
+|Moon Patrol|MoonPatrol_20200119.rbf||-|
+|Moon War|MoonWar_berzerk_20200118.rbf||-|
+|Motos|DRUAGA.RBF (20200216)|MOTOS.ROM|Yes|
+|Mr. Do Nightmare|MrDoNightmare_20200118.rbf||-|
+|Mr. Goemon|GBERET.RBF (20200216)|MRGOEMON.ROM|Yes|
+|MrTNT|MrTNT_20200118.rbf||-|
+|Ms.Pacman|MsPacman_20200118.rbf||-|
+|NinjaKun|NinjaKun_20200118.rbf|NINJAKUN.ROM|-|
+|Omega|Omega_20200118.rbf||-|
+|Orbitron|Orbitron_20200118.rbf||-|
+|Ozma Wars|OzmaWars_20200119.rbf||-|
+|Pacman|Pacman_20200118.rbf||-|
+|Pacman Club|PacmanClub_20200118.rbf||-|
+|Pacman Plus|PacmanPlus_20200118.rbf||-|
+|Pacmanic Miner|PacManicMiner_20200118.rbf||-|
+|Pengo|Pengo_20200118.rbf||-|
+|Phoenix|Phoenix_20200118.rbf||-|
+|Pickin|Pickin_20200127.rbf||-|
+|Pisces|Pisces_20200118.rbf||-|
+|Pleiads|Pleiads_20200118.rbf||-|
+|Ponpoko|Ponpoko_20200118.rbf||-|
+|Pooyan|Pooyan_20200216.rbf|POOYAN.ROM|-|
+|Power Drive|MCR3MONO.RBF (20200216)|POWERDRV.ROM|Yes|
+|Power Surge|PowerSurge_20200216.rbf|PSURGE.ROM|-|
+|RallyX|RallyX_20200118.rbf||-|
+|Rampage|MCR3MONO.RBF (20200216)|RAMPAGE.ROM|Yes|
+|Rescue|SCRAMBLE.RBF (20200216)|RESCUE.ROM|Yes|
+|River Patrol|RiverPatrol_20200127.rbf||-|
+|Robotron|ROBOTRON.RBF (20200216)|ROBOTRON.ROM|Yes|
+|Sarge|MCR3MONO.RBF (20200216)|SARGE.ROM|Yes|
+|Satan's Hollow|MCR2.RBF (20200216)|SHOLLOW.ROM|Yes|
+|Scramble|SCRAMBLE.RBF (20200216)|SCRAMBLE.ROM|Yes|
+|Shot Rider|TRAVRUSA.RBF (20200216)|SHTRIDER.ROM|Yes|
+|Silver Land|SilverLand_20200127.rbf||-|
+|Sinistar|ROBOTRON.RBF (20200216)|SINISTAR.ROM|Yes|
+|Sky Skipper|SkySkipper_20200118.rbf|SKYSKIP.ROM|-|
+|Snap Jack|Snapjack_20200118.rbf||-|
+|Solar Fox|SolarFox_20200118.rbf|SOLARFOX.ROM|-|
+|Space Invaders|SpaceInvaders_20200119.rbf||-|
+|Space Invaders 2|SpaceInvaders2_20200119.rbf||-|
+|Space Laser|SpaceLaser_20200119.rbf||-|
+|Speed Coin|SCRAMBLE.RBF (20200216)|SPDCOIN.ROM|Yes|
+|Splat|ROBOTRON.RBF (20200216)|SPLAT.ROM|Yes|
+|Sprint 1|SprintOne_20200118.rbf||-|
+|Sprint 2|Sprint2_20200118.rbf||-|
+|Spy Hunter|SpyHunter_20200216.rbf|SPYHUNT.ROM|-|
+|Squash|Squash_20200127.rbf||-|
+|Stargate|ROBOTRON.RBF (20200216)|STARGATE.ROM|Yes|
+|Strategy X|SCRAMBLE.RBF (20200216)|STRATGYX.ROM|Yes|
+|Super Bagman|SuperBagman_20200127.rbf|SBAGMAN.ROM|-|
+|Super Breakout|SuperBreakout_20200118.rbf||-|
+|Super Cobra|SCRAMBLE.RBF (20200216)|SCOBRA.ROM|Yes|
+|Super Earth Invasion|SuperEarthInvasion_20200119.rbf||-|
+|SuperGlob|SuperGlob_20200118.rbf||-|
+|Survival|Survival_20200118.rbf||-|
+|Tapper|Tapper_20200118.rbf|TAPPER.ROM|-|
+|Tazz-Mania|SCRAMBLE.RBF (20200216)|TAZMANIA.ROM|Yes|
+|Tetris|Tetris_20200216.rbf|TETRIS.ROM|-|
+|The End|TheEnd_20200118.rbf||-|
+|The Tower of Druaga|DRUAGA.RBF (20200216)|TODRUAGA.ROM|Yes|
+|Timber|Timber_20200118.rbf|TIMBER.ROM|-|
+|Time Pilot|TimePilot_20200216.rbf|TIMEPLT.ROM|-|
+|Traverse USA|TRAVRUSA.RBF (20200216)|TRAVERSE.ROM|Yes|
+|Triple Draw Poker|TripleDrawPoker_20200118.rbf||-|
+|Tron|MCR2.RBF (20200216)|TRON.ROM|Yes|
+|Tropical Angel|TropicalAngel_20200118.rbf|TROPANG.ROM|-|
+|Turbo Tag|TurboTag_20200216.rbf|TURBOTAG.ROM|-|
+|Turtles|SCRAMBLE.RBF (20200216)|TURTLES.ROM|Yes|
+|Two Tigers|MCR2.RBF (20200216)|TWOTIGER.ROM|Yes|
+|Ultratank|UltraTank_20200118.rbf||-|
+|Uniwars|UniwarS_20200118.rbf||-|
+|Vanvan Car|VanVanCar_20200118.rbf||-|
+|Victory|Victory_20200118.rbf||-|
+|Vortex|Vortex_20200118.rbf||-|
+|Vulgus|_.rbf|JTVULGUS.ROM|-|
+|Wacko|MCR2.RBF (20200216)|WACKO.ROM|Yes|
+|War of the Bugs|WarOfBugs_20200118.rbf||-|
+|Woodpecker|Woodpecker_20200118.rbf||-|
+|Xevious|Xevious_20200118.rbf|XEVIOUS.ROM - SXEVIOUS.ROM|-|
+|Zaxxon|Zaxxon_20200118.rbf|ZAXXON.ROM|-|
+|Zig Zag|ZigZag_20200118.rbf||-|
 
 Console Cores (9)
 

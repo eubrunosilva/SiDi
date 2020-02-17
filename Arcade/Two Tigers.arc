@@ -1,0 +1,5 @@
+[ARC]
+RBF=MCR2
+MOD=2
+NAME=TWOTIGER
+CONF="O8,Service,Off,On"
