@@ -6,7 +6,7 @@ SiDi is based on MiST with a different FPGA. Original sources from MiST project
 
 Core filenames have the compilation date not the original release core date
 
-Arcade Games (161)
+Arcade Games (160)
 
 |Game|rbf|Rom Needed|Arc Files|
 |-|-|-|-|
@@ -164,7 +164,6 @@ Arcade Games (161)
 |Vanvan Car|VanVanCar_20200118.rbf||-|
 |Victory|Victory_20200118.rbf||-|
 |Vortex|Vortex_20200118.rbf||-|
-|Vulgus|_.rbf|JTVULGUS.ROM|-|
 |Wacko|MCR2.RBF (20200216)|WACKO.ROM|Yes|
 |War of the Bugs|WarOfBugs_20200118.rbf||-|
 |Woodpecker|Woodpecker_20200118.rbf||-|
