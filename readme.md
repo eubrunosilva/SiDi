@@ -6,7 +6,7 @@ SiDi is based on MiST with a different FPGA. Original sources from MiST project
 
 Core filenames have the compilation date not the original release core date
 
-Arcade Games (160)
+Arcade Games (162)
 
 |Game|rbf|Rom Needed|Arc Files|
 |-|-|-|-|
@@ -74,6 +74,7 @@ Arcade Games (160)
 |Green Beret|GBERET.RBF (20200216)|GBERET.ROM|Yes|
 |Gun Fight|GunFight_20200118.rbf||-|
 |Jin|DEFENDER.RBF (20200216)|JIN.ROM|Yes|
+|Journey|Journey_20200218.rbf|JOURNEY.ROM|-|
 |Joust|ROBOTRON.RBF (20200216)|JOUST.ROM|Yes|
 |Kickman|Kickman_20200118.rbf|KICKMAN.ROM|-|
 |King Ballon|KingBallon_20200118.rbf||-|
@@ -112,6 +113,7 @@ Arcade Games (160)
 |Pleiads|Pleiads_20200118.rbf||-|
 |Ponpoko|Ponpoko_20200118.rbf||-|
 |Pooyan|Pooyan_20200216.rbf|POOYAN.ROM|-|
+|Popeye|Popeye_20200127.rbf|POPEYE.ROM|-|
 |Power Drive|MCR3MONO.RBF (20200216)|POWERDRV.ROM|Yes|
 |Power Surge|PowerSurge_20200216.rbf|PSURGE.ROM|-|
 |RallyX|RallyX_20200118.rbf||-|
@@ -121,7 +123,7 @@ Arcade Games (160)
 |Robotron|ROBOTRON.RBF (20200216)|ROBOTRON.ROM|Yes|
 |Sarge|MCR3MONO.RBF (20200216)|SARGE.ROM|Yes|
 |Satan's Hollow|MCR2.RBF (20200216)|SHOLLOW.ROM|Yes|
-|Scramble|SCRAMBLE.RBF (20200216)|SCRAMBLE.ROM|Yes|
+|Scramble|SCRAMBLE.RBF (20200217)|SCRAMBLE.ROM|Yes|
 |Shot Rider|TRAVRUSA.RBF (20200216)|SHTRIDER.ROM|Yes|
 |Silver Land|SilverLand_20200127.rbf||-|
 |Sinistar|ROBOTRON.RBF (20200216)|SINISTAR.ROM|Yes|
