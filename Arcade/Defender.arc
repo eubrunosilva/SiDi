@@ -2,3 +2,5 @@
 RBF=DEFENDER
 MOD=0
 NAME=DEFENDER
+CONF="O0,Auto up,Off,On"
+CONF="O1,Advance,Off,On"

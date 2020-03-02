@@ -1,9 +1,7 @@
 [ARC]
-RBF=MCR3MONO
+RBF=MCR3
 MOD=0
 NAME=RAMPAGE2
-CONF="O01,Difficulty,Free Play,Hard,Easy,Normal"
-CONF="O2,Scor Opt,Lose,Keep"
-CONF="O3,Coinage,2c/1cr,1c/1cr"
-CONF="O7,Rack Advance (cheat),On,Off"
-CONF="O8,Service,Off,On"
+CONF="O89,Difficulty,Normal,Easy,Hard,Free Play"
+CONF="OA,Score Opt,Lose,Keep"
+CONF="OB,Rack Advance (cheat),Off,On"

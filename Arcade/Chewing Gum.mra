@@ -1,0 +1,31 @@
+<misterromdescription>
+	<name>Chewing Gum</name>
+	<mameversion>0219</mameversion>
+	<setname>CHEWING</setname>
+	<mratimestamp>20200302001159</mratimestamp>
+	<year>19??</year>
+	<manufacturer>unknown</manufacturer>
+	<rbf>GALAXIAN</rbf>
+	<switches default="FF,1F,04">
+		<dip bits="16" name="Bonus Life After" ids="10000,15000"/>
+		<dip bits="18" name="Lives" ids="4,5"/>
+		<dip bits="19"    name="Cabinet" ids="Upright,Cocktail"/>
+	</switches>
+	<rom index="1">
+		<part>05</part>
+	</rom>
+	<rom index="0" zip="luctoday.zip|chewing.zip" md5="45a9eae5a2be0096679208c03149eeca">
+		<part crc="7470b347" name="1.bin"/>
+		<part crc="78ebed36" name="7l.bin"/>
+		<part crc="78ebed36" name="7l.bin"/>
+		<part crc="78ebed36" name="7l.bin"/>
+		<part crc="78ebed36" name="7l.bin"/>
+		<part crc="78ebed36" name="7l.bin"/>
+		<part crc="78ebed36" name="7l.bin"/>
+		<part crc="88c605f3" name="2.bin"/>
+		<part crc="88c605f3" name="2.bin"/>
+		<part crc="77ac016a" name="3.bin"/>
+		<part crc="77ac016a" name="3.bin"/>
+		<part crc="24652bc4" name="74s288.ch"/>
+	</rom>
+</misterromdescription>

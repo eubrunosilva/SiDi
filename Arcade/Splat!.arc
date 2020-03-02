@@ -2,3 +2,5 @@
 RBF=ROBOTRON
 MOD=2
 NAME=SPLAT
+CONF="O0,Auto Up,Off,On"
+CONF="O1,Advance,Off,On"

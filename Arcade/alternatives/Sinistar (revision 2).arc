@@ -2,3 +2,5 @@
 RBF=ROBOTRON
 MOD=6
 NAME=SINISAR2
+CONF="O0,Auto Up,Off,On"
+CONF="O1,Advance,Off,On"

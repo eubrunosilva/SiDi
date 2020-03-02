@@ -19,12 +19,12 @@ Arcade Games (162)
 |Anteater|SCRAMBLE.RBF (20200216)|ANTEATER.ROM|Yes|
 |Arkanoid|Arkanoid_.rbf||-|
 |Armored Car|SCRAMBLE.RBF (20200216)|ARMORCAR.ROM|Yes|
-|Azurian|AzurianAttack_20200118.rbf||-|
+|Azurian|GALAXIAN.RBF (20200302)||Yes|
 |Bagman|Bagman_20200127.rbf||-|
 |Battle of Atlantis|SCRAMBLE.RBF (20200216)|ATLANTIS.ROM|Yes|
 |Berzerk|Berzerk_20200118.rbf||-|
 |Birdiy|Birdiy_20200118.rbf||-|
-|Black Hole|BlackHole_20200118.rbf||-|
+|Black Hole|GALAXIAN.RBF (20200302)||Yes|
 |Black Tiger|jtbtiger_20200124.rbf|JTBTIGER.rom|-|
 |Black Widow|BlackWidow_20200119.rbf|BWIDOW.ROM|-|
 |Bomb Jack|BombJack_20200118.rbf|BOMBJACK.ROM|-|
@@ -36,9 +36,9 @@ Arcade Games (162)
 |Cannon Ball|CannonBall_20200127.rbf||-|
 |Canyon Bomber|CanyonBomber_20200118.rbf||-|
 |Capitol|Capitol_20200118.rbf||-|
-|Catacomb|Catacomb_20200118.rbf||-|
+|Catacomb|GALAXIAN.RBF (20200302)||Yes|
 |Centipede|Centipede_20200118.rbf||-|
-|ChewingGum|ChewingGum_20200118.rbf||-|
+|ChewingGum|GALAXIAN.RBF (20200302)||Yes|
 |Colony7|DEFENDER.RBF (20200216)|COLONY7.ROM|Yes|
 |Computer Space|ComputerSpace_20200216.rbf||-|
 |Cosmic Avenger|CosmicAvenger_20200118.rbf||-|
@@ -48,18 +48,17 @@ Arcade Games (162)
 |CrushRoller|CrushRoller_20200118.rbf||-|
 |Dark Planet|SCRAMBLE.RBF (20200216)|DARKPLNT.ROM|Yes|
 |Defender|DEFENDER.RBF (20200216)|DEFENDER.ROM|Yes|
-|Demolition Derby|DemolitionDerby_20200118.rbf|DDERBY.ROM|-|
-|Devil Fish|DevilFish_20200118.rbf||-|
+|Demolition Derby|MCR3.RBF (20200301)|DDERBY.ROM|Yes|
+|Devil Fish|GALAXIAN.RBF (20200302)||Yes|
 |Dig Dug|DigDug_20200118.rbf|DIGDUG.ROM|-|
 |Dig Dug II|DRUAGA.RBF (20200216)|DIGDUG2.ROM|Yes|
-|Disc of tron|DiscsOfTron_20200118.rbf|DOTRON.ROM|-|
+|Disc of tron|MCR3.RBF (20200301)|DOTRON.ROM|Yes|
 |Domino Man|MCR2.RBF (20200216)|DOMINO.ROM|Yes|
 |Dominos|Dominos_20200118.rbf||-|
 |Donkey Kong|DonkeyKong_20200119.rbf||-|
 |Donkey Kong Junior|DonkeyKongJr_20200119.rbf||-|
 |Dorodon|Dorodon_20200119.rbf||-|
 |Dottori Kun|DottoriKun_20200119.rbf||-|
-|Draw Poker|DrawPoker_20200118.rbf|DPOKER.ROM|-|
 |Dream Shopper|DreamShopper_20200118.rbf||-|
 |Eeekk|Eeekk_20200118.rbf||-|
 |Eggor|Eggor_20200119.rbf||-|
@@ -67,7 +66,7 @@ Arcade Games (162)
 |Frenzy|Frenzy_20200118.rbf||-|
 |Frogger|SCRAMBLE.RBF (20200216)|FROGGER.ROM|Yes|
 |Galaga|Galaga_20200118.rbf||-|
-|Galaxian|Galaxian_20200118.rbf||-|
+|Galaxian|GALAXIAN.RBF (20200302)||Yes|
 |Ghosts'n Goblins|jtgng_20200123.rbf|JTGNG.ROM|-|
 |Gorkans|Gorkans_20200118.rbf||-|
 |Gravitar|Gravitar_20200119.rbf|GRAVITAR.ROM|-|
@@ -76,31 +75,33 @@ Arcade Games (162)
 |Jin|DEFENDER.RBF (20200216)|JIN.ROM|Yes|
 |Journey|Journey_20200218.rbf|JOURNEY.ROM|-|
 |Joust|ROBOTRON.RBF (20200216)|JOUST.ROM|Yes|
-|Kickman|Kickman_20200118.rbf|KICKMAN.ROM|-|
-|King Ballon|KingBallon_20200118.rbf||-|
+|Kick|MCR1.RBF (20200227)|KICK.ROM|Yes|
+|Kickman|MCR1.RBF (20200227)|KICKMAN.ROM|Yes|
+|King Ballon|GALAXIAN.RBF (20200302)||Yes|
 |Kozmik Kroozr|MCR2.RBF (20200216)|KROOZR.ROM|Yes|
 |Lady Bug|LadyBug_20200118.rbf||-|
 |Lizard Wizard|LizardWizard_20200118.rbf||-|
 |Lost Tomb|SCRAMBLE.RBF (20200216)|LOSTTOMB.ROM|Yes|
+|Lucky Today|GALAXIAN.RBF (20200302)||Yes|
 |Lunar Lander|LunarLander_20200118.rbf|LLANDER.ROM|-|
 |Lunar Rescue|LunarRescue_20200118.rbf||-|
 |Mappy|DRUAGA.RBF (20200216)|MAPPY.ROM|Yes|
 |Mars|SCRAMBLE.RBF (20200216)|MARS.ROM|Yes|
-|MaxRPM|MCR3MONO.RBF (20200216)|MAXRPM.ROM|Yes|
+|MaxRPM|MCR3.RBF (20200301)|MAXRPM.ROM|Yes|
 |Mayday|DEFENDER.RBF (20200216)|MAYDAY.ROM|Yes|
 |Mighty Monkey|SCRAMBLE.RBF (20200216)|MIGHTY_M.ROM|Yes|
 |Minefield|SCRAMBLE.RBF (20200216)|MINEFLD.ROM|Yes|
-|Moon Cresta|MoonCresta_20200118.rbf||-|
+|Moon Cresta|GALAXIAN.RBF (20200302)||Yes|
 |Moon Patrol|MoonPatrol_20200119.rbf||-|
 |Moon War|MoonWar_berzerk_20200118.rbf||-|
 |Motos|DRUAGA.RBF (20200216)|MOTOS.ROM|Yes|
-|Mr. Do Nightmare|MrDoNightmare_20200118.rbf||-|
+|Mr. Do Nightmare|GALAXIAN.RBF (20200302)||Yes|
 |Mr. Goemon|GBERET.RBF (20200216)|MRGOEMON.ROM|Yes|
 |MrTNT|MrTNT_20200118.rbf||-|
 |Ms.Pacman|MsPacman_20200118.rbf||-|
 |NinjaKun|NinjaKun_20200118.rbf|NINJAKUN.ROM|-|
-|Omega|Omega_20200118.rbf||-|
-|Orbitron|Orbitron_20200118.rbf||-|
+|Omega|GALAXIAN.RBF (20200302)||Yes|
+|Orbitron|GALAXIAN.RBF (20200302)||Yes|
 |Ozma Wars|OzmaWars_20200119.rbf||-|
 |Pacman|Pacman_20200118.rbf||-|
 |Pacman Club|PacmanClub_20200118.rbf||-|
@@ -109,27 +110,26 @@ Arcade Games (162)
 |Pengo|Pengo_20200118.rbf||-|
 |Phoenix|Phoenix_20200118.rbf||-|
 |Pickin|Pickin_20200127.rbf||-|
-|Pisces|Pisces_20200118.rbf||-|
+|Pisces|GALAXIAN.RBF (20200302)||Yes|
 |Pleiads|Pleiads_20200118.rbf||-|
 |Ponpoko|Ponpoko_20200118.rbf||-|
 |Pooyan|Pooyan_20200216.rbf|POOYAN.ROM|-|
 |Popeye|Popeye_20200127.rbf|POPEYE.ROM|-|
-|Power Drive|MCR3MONO.RBF (20200216)|POWERDRV.ROM|Yes|
+|Power Drive|MCR3.RBF (20200301)|POWERDRV.ROM|Yes|
 |Power Surge|PowerSurge_20200216.rbf|PSURGE.ROM|-|
 |RallyX|RallyX_20200118.rbf||-|
-|Rampage|MCR3MONO.RBF (20200216)|RAMPAGE.ROM|Yes|
+|Rampage|MCR3.RBF (20200301)|RAMPAGE.ROM|Yes|
 |Rescue|SCRAMBLE.RBF (20200216)|RESCUE.ROM|Yes|
 |River Patrol|RiverPatrol_20200127.rbf||-|
 |Robotron|ROBOTRON.RBF (20200216)|ROBOTRON.ROM|Yes|
-|Sarge|MCR3MONO.RBF (20200216)|SARGE.ROM|Yes|
+|Sarge|MCR3.RBF (20200301)|SARGE.ROM|Yes|
 |Satan's Hollow|MCR2.RBF (20200216)|SHOLLOW.ROM|Yes|
-|Scramble|SCRAMBLE.RBF (20200217)|SCRAMBLE.ROM|Yes|
+|Scramble|SCRAMBLE.RBF (20200216)|SCRAMBLE.ROM|Yes|
 |Shot Rider|TRAVRUSA.RBF (20200216)|SHTRIDER.ROM|Yes|
 |Silver Land|SilverLand_20200127.rbf||-|
 |Sinistar|ROBOTRON.RBF (20200216)|SINISTAR.ROM|Yes|
 |Sky Skipper|SkySkipper_20200118.rbf|SKYSKIP.ROM|-|
 |Snap Jack|Snapjack_20200118.rbf||-|
-|Solar Fox|SolarFox_20200118.rbf|SOLARFOX.ROM|-|
 |Space Invaders|SpaceInvaders_20200119.rbf||-|
 |Space Invaders 2|SpaceInvaders2_20200119.rbf||-|
 |Space Laser|SpaceLaser_20200119.rbf||-|
@@ -147,27 +147,27 @@ Arcade Games (162)
 |Super Earth Invasion|SuperEarthInvasion_20200119.rbf||-|
 |SuperGlob|SuperGlob_20200118.rbf||-|
 |Survival|Survival_20200118.rbf||-|
-|Tapper|Tapper_20200118.rbf|TAPPER.ROM|-|
+|Tapper|MCR3.RBF (20200301)|TAPPER.ROM|Yes|
 |Tazz-Mania|SCRAMBLE.RBF (20200216)|TAZMANIA.ROM|Yes|
 |Tetris|Tetris_20200216.rbf|TETRIS.ROM|-|
 |The End|TheEnd_20200118.rbf||-|
 |The Tower of Druaga|DRUAGA.RBF (20200216)|TODRUAGA.ROM|Yes|
-|Timber|Timber_20200118.rbf|TIMBER.ROM|-|
+|Timber|MCR3.RBF (20200301)|TIMBER.ROM|Yes|
 |Time Pilot|TimePilot_20200216.rbf|TIMEPLT.ROM|-|
 |Traverse USA|TRAVRUSA.RBF (20200216)|TRAVERSE.ROM|Yes|
-|Triple Draw Poker|TripleDrawPoker_20200118.rbf||-|
+|Triple Draw Poker|GALAXIAN.RBF (20200302)||Yes|
 |Tron|MCR2.RBF (20200216)|TRON.ROM|Yes|
 |Tropical Angel|TropicalAngel_20200118.rbf|TROPANG.ROM|-|
 |Turbo Tag|TurboTag_20200216.rbf|TURBOTAG.ROM|-|
 |Turtles|SCRAMBLE.RBF (20200216)|TURTLES.ROM|Yes|
 |Two Tigers|MCR2.RBF (20200216)|TWOTIGER.ROM|Yes|
 |Ultratank|UltraTank_20200118.rbf||-|
-|Uniwars|UniwarS_20200118.rbf||-|
+|Uniwars|GALAXIAN.RBF (20200302)||Yes|
 |Vanvan Car|VanVanCar_20200118.rbf||-|
-|Victory|Victory_20200118.rbf||-|
+|Victory|GALAXIAN.RBF (20200302)||Yes|
 |Vortex|Vortex_20200118.rbf||-|
 |Wacko|MCR2.RBF (20200216)|WACKO.ROM|Yes|
-|War of the Bugs|WarOfBugs_20200118.rbf||-|
+|War of the Bugs|GALAXIAN.RBF (20200302)||Yes|
 |Woodpecker|Woodpecker_20200118.rbf||-|
 |Xevious|Xevious_20200118.rbf|XEVIOUS.ROM - SXEVIOUS.ROM|-|
 |Zaxxon|Zaxxon_20200118.rbf|ZAXXON.ROM|-|

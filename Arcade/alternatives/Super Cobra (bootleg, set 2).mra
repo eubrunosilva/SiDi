@@ -1,0 +1,36 @@
+<misterromdescription>
+	<name>Super Cobra (bootleg, set 2)</name>
+	<mameversion>0219</mameversion>
+	<setname>SCOBRAG</setname>
+	<mratimestamp>20200301233614</mratimestamp>
+	<year>1981</year>
+	<manufacturer>bootleg (A.V.G. by Zaccaria)</manufacturer>
+	<category>Army / Helicopter</category>
+	<rbf>scramble</rbf>
+	<switches default="FF,FD,F3">
+		<dip bits="8"     name="Allow Continue" ids="No,4 times"/>
+		<dip bits="9"     name="Lives" ids="3,4"/>
+		<dip bits="17,18" name="Coinage" ids="99cr,1c/1cr,2c/1cr,4c/3cr"/>
+		<dip bits="19"    name="Cabinet" ids="Upright,Cocktail"/>
+	</switches>
+	<rom index="1">
+		<part>3</part>
+	</rom>
+	<rom index="0" zip="scobra.zip|scobrag.zip" md5="f5b3ea0121bd04bfc9b5b9bb638e7f82">
+		<part crc="04ffab61" name="2c_32.bin"/>
+		<part crc="f82a52de" name="2e_32.bin"/>
+		<part crc="9dee81cc" name="2f_32.bin"/>
+		<part crc="99dee0c6" name="2h_32.bin"/>
+		<part crc="db7fb865" name="2j_32.bin"/>
+		<part crc="6493d2d3" name="2l_32.bin"/>
+		<part crc="6493d2d3" name="2l_32.bin"/>
+		<part crc="6493d2d3" name="2l_32.bin"/>
+		<part crc="d4346959" name="c5_16.bin"/>
+		<part crc="cc025d95" name="d5_16.bin"/>
+		<part crc="1628c53f" name="e5_16.bin"/>
+		<part crc="1628c53f" name="e5_16.bin"/>
+		<part crc="a96316d3" name="f5_16.bin"/>
+		<part crc="64d113b4" name="h5_16.bin"/>
+		<part crc="4e3caeab" name="super_cobra_288_6e"/>
+	</rom>
+</misterromdescription>

@@ -1,0 +1,32 @@
+<misterromdescription>
+	<name>Draw Poker (Bally, 03-20)</name>
+	<mameversion>0219</mameversion>
+	<setname>DPOKER</setname>
+	<mratimestamp>20200301232205</mratimestamp>
+	<year>1985</year>
+	<manufacturer>Bally</manufacturer>
+	<category>Games / Cards</category>
+	<rbf>MCR1</rbf>
+	<rom index="1">
+		<part>2</part>
+	</rom>
+	<rom index="0" zip="dpoker.zip" md5="c7de5d92f544a11393d0d0d5d8386347">
+		<part crc="2a76ded2" name="vppp.b3"/>
+		<part crc="d6948faa" name="vppp.b4"/>
+		<part crc="a49916e5" name="vppp.b5"/>
+		<part crc="c496934f" name="vppp.d4"/>
+		<part crc="84f4bd38" name="vppp.d5"/>
+		<part crc="b0023bf1" name="vppp.d6"/>
+		<part crc="a4012f5a" name="vppp.d7"/>
+		<part repeat="0x1000">FF</part>
+		<part crc="f78b2283" name="vssp.a7"/>
+		<part crc="3f531bd0" name="vssp.a8"/>
+		<part repeat="0x2000">FF</part>
+		<part crc="acb3b469" name="vpfg.e1"/>
+		<part crc="c661cace" name="vpfg.d1"/>
+		<part crc="cdba9a7d" name="vpfg.b1"/>
+		<part crc="d76ec7dd" name="vpfg.a1"/>
+		<part crc="9fe9aad8" name="vpbg.g4"/>
+		<part crc="d43aeaae" name="vpbg.g5"/>
+	</rom>
+</misterromdescription>

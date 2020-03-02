@@ -1,0 +1,36 @@
+<misterromdescription>
+	<name>Armored Car (set 1)</name>
+	<mameversion>0219</mameversion>
+	<setname>ARMORCAR</setname>
+	<mratimestamp>20200301233614</mratimestamp>
+	<year>1981</year>
+	<manufacturer>Stern Electronics</manufacturer>
+	<category>Racing</category>
+	<rbf>scramble</rbf>
+	<switches default="FF,FD,FB">
+		<dip bits="8"     name="Lives" ids="5,3"/>
+		<dip bits="9"     name="Demo Sounds" ids="On,Off"/>
+		<dip bits="17,18" name="Coinage" ids="1c/2cr,1c/1cr,1c/3cr,1c/4cr"/>
+		<dip bits="19"    name="Cabinet" ids="Cocktail,Upright"/>
+	</switches>
+	<rom index="1">
+		<part>5</part>
+	</rom>
+	<rom index="0" zip="armorcar.zip" md5="0b2be19a5fa28e44cf65e157ee0d880c">
+		<part crc="0d7bfdfb" name="cpu.2c"/>
+		<part crc="76463213" name="cpu.2e"/>
+		<part crc="2cc6d5f0" name="cpu.2f"/>
+		<part crc="61278dbb" name="cpu.2h"/>
+		<part crc="fb158d8c" name="cpu.2j"/>
+		<part crc="fb158d8c" name="cpu.2j"/>
+		<part crc="fb158d8c" name="cpu.2j"/>
+		<part crc="fb158d8c" name="cpu.2j"/>
+		<part crc="54ee7753" name="sound.5c"/>
+		<part crc="5218fec0" name="sound.5d"/>
+		<part crc="54ee7753" name="sound.5c"/>
+		<part crc="5218fec0" name="sound.5d"/>
+		<part crc="85bdb113" name="cpu.5h"/>
+		<part crc="8a3da4d1" name="cpu.5f"/>
+		<part crc="9b87f90d" name="82s123.6e"/>
+	</rom>
+</misterromdescription>

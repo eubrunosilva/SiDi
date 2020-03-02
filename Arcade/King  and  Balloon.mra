@@ -1,0 +1,25 @@
+<misterromdescription>
+	<name>King  and  Balloon (US)</name>
+	<mameversion>0219</mameversion>
+	<setname>KINGBALL</setname>
+	<mratimestamp>20200302001159</mratimestamp>
+	<year>1980</year>
+	<manufacturer>Namco</manufacturer>
+	<category>Maze / Balloons</category>
+	<category>Space / Galaxian</category>
+	<rbf>GALAXIAN</rbf>
+	<rom index="1">
+		<part>07</part>
+	</rom>
+	<rom index="0" zip="kingball.zip" md5="1fcb9ca52df7231e6b49af1c5a264b8b">
+		<part crc="6cb49046" name="prg1.7f"/>
+		<part crc="c223b416" name="prg2.7j"/>
+		<part crc="453634c0" name="prg3.7l"/>
+		<part repeat="0x1800">FF</part>
+		<part crc="a206757d" name="chg2.1k"/>
+		<part crc="a206757d" name="chg2.1k"/>
+		<part crc="9cd550e7" name="chg1.1h"/>
+		<part crc="9cd550e7" name="chg1.1h"/>
+		<part crc="15dd5b16" name="kb2-1"/>
+	</rom>
+</misterromdescription>

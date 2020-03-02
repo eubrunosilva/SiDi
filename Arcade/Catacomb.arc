@@ -1,0 +1,6 @@
+[ARC]
+RBF=GALAXIAN
+MOD=4
+NAME=CATACOMB
+CONF="OE,Coinage,2c/1cr,1c/1cr"
+CONF="OI,Lives,5,3"

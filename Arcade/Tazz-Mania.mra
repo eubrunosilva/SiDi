@@ -1,0 +1,37 @@
+<misterromdescription>
+	<name>Tazz-Mania (set 1)</name>
+	<mameversion>0219</mameversion>
+	<setname>TAZMANIA</setname>
+	<mratimestamp>20200301233614</mratimestamp>
+	<year>1982</year>
+	<manufacturer>Stern Electronics</manufacturer>
+	<category>Maze</category>
+	<category>Maze / Bugs</category>
+	<rbf>scramble</rbf>
+	<switches default="FF,FD,FB">
+		<dip bits="8"     name="Lives" ids="5,3"/>
+		<dip bits="9"     name="Demo Sounds" ids="On,Off"/>
+		<dip bits="17,18" name="Coinage" ids="1c/2cr,1c/1cr,1c/3cr,1c/4cr"/>
+		<!-- doesn't work well  dip bits="19"    name="Cabinet" ids="Cocktail,Upright"/-->
+	</switches>
+	<rom index="1">
+		<part>4</part>
+	</rom>
+	<rom index="0" zip="tazmania.zip" md5="843f8ffcc008407fd77958d854c3afba">
+		<part crc="932c5a06" name="2c.cpu"/>
+		<part crc="ef17ce65" name="2e.cpu"/>
+		<part crc="43c7c39d" name="2f.cpu"/>
+		<part crc="be829694" name="2h.cpu"/>
+		<part crc="6e197271" name="2j.cpu"/>
+		<part crc="a1eb453b" name="2k.cpu"/>
+		<part crc="a1eb453b" name="2k.cpu"/>
+		<part crc="a1eb453b" name="2k.cpu"/>
+		<part crc="b8d741f1" name="rom0.snd"/>
+		<part crc="b8d741f1" name="rom0.snd"/>
+		<part crc="b8d741f1" name="rom0.snd"/>
+		<part crc="b8d741f1" name="rom0.snd"/>
+		<part crc="3f5ff3ac" name="5h.cpu"/>
+		<part crc="2c5b612b" name="5f.cpu"/>
+		<part crc="fce333c7" name="colr6f.cpu"/>
+	</rom>
+</misterromdescription>

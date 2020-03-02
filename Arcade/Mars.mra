@@ -1,0 +1,38 @@
+<misterromdescription>
+	<name>Mars</name>
+	<mameversion>0219</mameversion>
+	<setname>MARS</setname>
+	<mratimestamp>20200301233614</mratimestamp>
+	<year>1981</year>
+	<manufacturer>Artic</manufacturer>
+	<category>Space / Defender</category>
+	<rbf>scramble</rbf>
+	<rom index="1">
+		<part>0C</part>
+	</rom>
+	<rom index="0" zip="mars.zip" md5="d2f92c40c12e61bb0b906d0daeab8eee">
+		<part crc="2f88892c" name="u26.3"/>
+		<part crc="9e6bcbf7" name="u56.4"/>
+		<part crc="df496e6e" name="u69.5"/>
+		<part crc="75f274bb" name="u98.6"/>
+		<part crc="497fd8d0" name="u114.7"/>
+		<part crc="3d4cd59f" name="u133.8"/>
+		<part crc="497fd8d0" name="u114.7"/>
+		<part crc="3d4cd59f" name="u133.8"/>
+		<part crc="2f88892c" name="u26.3"/>
+		<part crc="9e6bcbf7" name="u56.4"/>
+		<part crc="df496e6e" name="u69.5"/>
+		<part crc="75f274bb" name="u98.6"/>
+		<part crc="497fd8d0" name="u114.7"/>
+		<part crc="3d4cd59f" name="u133.8"/>
+		<part crc="497fd8d0" name="u114.7"/>
+		<part crc="3d4cd59f" name="u133.8"/>
+		<part crc="bb5968b9" name="u39.9"/>
+		<part crc="75fd7720" name="u51.10"/>
+		<part crc="72a492da" name="u78.11"/>
+		<part crc="72a492da" name="u78.11"/>
+		<part crc="c5dc627f" name="u101.2"/>
+		<part crc="279789d0" name="u72.1"/>
+		<part crc="4e3caeab" name="c01s.6e"/>
+	</rom>
+</misterromdescription>

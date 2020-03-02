@@ -2,3 +2,5 @@
 RBF=DEFENDER
 MOD=3
 NAME=JIN
+CONF="OJ,Lives,3,4"
+CONF="OLM,Level complete,55%,65%,75%,85%"

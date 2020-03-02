@@ -1,0 +1,37 @@
+<misterromdescription>
+	<name>Speed Coin (prototype)</name>
+	<mameversion>0219</mameversion>
+	<setname>SPDCOIN</setname>
+	<mratimestamp>20200301233614</mratimestamp>
+	<year>1984</year>
+	<manufacturer>Stern Electronics</manufacturer>
+	<category>Platform</category>
+	<category>Platform / Skill</category>
+	<rbf>scramble</rbf>
+	<switches default="FF,FC,FB">
+		<dip bits="8"     name="Freeze" ids="Off,On"/>
+		<dip bits="9"     name="Free Play" ids="Off,On"/>
+		<dip bits="18"    name="Difficulty" ids="Easy,Hard"/>
+		<dip bits="19"    name="Lives" ids="5,3"/>
+	</switches>
+	<rom index="1">
+		<part>7</part>
+	</rom>
+	<rom index="0" zip="spdcoin.zip" md5="ec50d25a33e7eb34bd53e66648cd65a6">
+		<part crc="65cf1e49" name="spdcoin.2c"/>
+		<part crc="1ee59232" name="spdcoin.2e"/>
+		<part crc="65cf1e49" name="spdcoin.2c"/>
+		<part crc="1ee59232" name="spdcoin.2e"/>
+		<part crc="65cf1e49" name="spdcoin.2c"/>
+		<part crc="1ee59232" name="spdcoin.2e"/>
+		<part crc="65cf1e49" name="spdcoin.2c"/>
+		<part crc="1ee59232" name="spdcoin.2e"/>
+		<part crc="b4cf64b7" name="spdcoin.5c"/>
+		<part crc="92304df0" name="spdcoin.5d"/>
+		<part crc="b4cf64b7" name="spdcoin.5c"/>
+		<part crc="92304df0" name="spdcoin.5d"/>
+		<part crc="dd5f1dbc" name="spdcoin.5f"/>
+		<part crc="ab1fe81b" name="spdcoin.5h"/>
+		<part crc="1a2ccc56" name="spdcoin.clr"/>
+	</rom>
+</misterromdescription>

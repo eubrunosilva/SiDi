@@ -1,0 +1,39 @@
+<misterromdescription>
+	<name>Rescue</name>
+	<mameversion>0219</mameversion>
+	<setname>RESCUE</setname>
+	<mratimestamp>20200301233614</mratimestamp>
+	<year>1982</year>
+	<manufacturer>Stern Electronics</manufacturer>
+	<category>Army / Helicopter</category>
+	<category>Platform / Rescue</category>
+	<category>Platform / Water</category>
+	<rbf>scramble</rbf>
+	<switches default="FF,FD,F3">
+		<dip bits="1"     name="Starting Level" ids="3,1"/>
+		<dip bits="8"     name="Lives" ids="5,3"/>
+		<dip bits="9"     name="Demo Sounds" ids="On,Off"/>
+		<dip bits="17,18" name="Coinage" ids="1c/2cr,1c/1cr,1c/3cr,1/4cr"/>
+		<dip bits="19"    name="Difficulty" ids="Easy,Hard"/>
+	</switches>
+	<rom index="1">
+		<part>11</part>
+	</rom>
+	<rom index="0" zip="rescue.zip" md5="b12c059c5c50f4e7043b10ee3b021b6d">
+		<part crc="d7e654ba" name="rb15acpu.bin"/>
+		<part crc="a93ea158" name="rb15bcpu.bin"/>
+		<part crc="058cd3d0" name="rb15ccpu.bin"/>
+		<part crc="d6505742" name="rb15dcpu.bin"/>
+		<part crc="604df3a4" name="rb15ecpu.bin"/>
+		<part crc="604df3a4" name="rb15ecpu.bin"/>
+		<part crc="604df3a4" name="rb15ecpu.bin"/>
+		<part crc="604df3a4" name="rb15ecpu.bin"/>
+		<part crc="8b24bf17" name="rb15csnd.bin"/>
+		<part crc="d96e4fb3" name="rb15dsnd.bin"/>
+		<part crc="8b24bf17" name="rb15csnd.bin"/>
+		<part crc="d96e4fb3" name="rb15dsnd.bin"/>
+		<part crc="5512c547" name="rb15hcpu.bin"/>
+		<part crc="4489d20c" name="rb15fcpu.bin"/>
+		<part crc="40c6bcbd" name="rescue.clr"/>
+	</rom>
+</misterromdescription>

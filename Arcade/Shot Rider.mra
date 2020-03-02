@@ -1,0 +1,30 @@
+<misterromdescription>
+	<name>Shot Rider</name>
+	<mameversion>0219</mameversion>
+	<setname>SHTRIDER</setname>
+	<mratimestamp>20200301234007</mratimestamp>
+	<year>1985</year>
+	<manufacturer>Seibu Kaihatsu</manufacturer>
+	<category>Racing / Motorbike</category>
+	<rbf>travrusa</rbf>
+	<rom index="1">
+		<part>1</part>
+	</rom>
+	<rom index="0" zip="shtrider.zip" md5="9e4c8423a33f0c5bf558d475d89e041a">
+		<part crc="de76d537" name="sr01a.bin"/>
+		<part crc="cd1e1bfc" name="sr02a.bin"/>
+		<part crc="3ade11b9" name="sr03a.bin"/>
+		<part crc="02b96eaa" name="sr04a.bin"/>
+		<part crc="a8396b76" name="sr11a.bin"/>
+		<part crc="34449f79" name="sr05a.bin"/>
+		<part crc="de43653d" name="sr06a.bin"/>
+		<part crc="3445b81c" name="sr07a.bin"/>
+		<part crc="4072b096" name="sr08a.bin"/>
+		<part crc="fd4cc7e6" name="sr09a.bin"/>
+		<part crc="0a117925" name="sr10b.bin"/>
+		<part crc="e9e258e5" name="1.bpr"/>
+		<part crc="6cf4591c" name="2.bpr"/>
+		<part crc="5db47092" name="3.bpr"/>
+		<part crc="ee97c581" name="4.bpr"/>
+	</rom>
+</misterromdescription>
