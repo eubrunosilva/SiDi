@@ -1,0 +1,81 @@
+<misterromdescription>
+    <name>Spelunker</name>
+    <mameversion>0219</mameversion>
+    <setname>SPELUNKR</setname>
+    <mratimestamp>20200321170128</mratimestamp>
+    <year>1985</year>
+    <manufacturer>Irem (licensed from Broderbund)</manufacturer>
+    <category>Adventure</category>
+    <category>Platform / Extra</category>
+    <rbf>IREMM62</rbf>
+    <switches>
+        <dip bits="8,9"   name="Timer" ids="Slow,Medium,Fast,Fastest"/>
+        <dip bits="10,11" name="Lives" ids="3,2,4,5"/>
+    </switches>
+    <rom index="1">
+        <part>9</part>
+    </rom>
+    <rom index="0" zip="spelunkr.zip" md5="ec64e30638077a75ff9f6698494057fc">
+        <part crc="cf811201" name="spra.4e"/>
+        <part crc="bb4faa4f" name="spra.4d"/>
+        <part repeat="0x8000">FF</part>
+        <part crc="fb6197e2" name="sprm.7c"/>
+        <part crc="26bb25a4" name="sprm.7b"/>
+        <part repeat="0x8000">FF</part>
+        <part repeat="0x8000">FF</part>
+        <part crc="4110363c" name="spra.3d"/>
+        <part crc="67a9d2e6" name="spra.3f"/>
+        <group width="32">
+            <part crc="4ef7ae89" name="sprm.1d"/>
+            <part crc="b4008e6a" name="sprm.3c"/>
+            <part crc="58b21c76" name="sprm.1c"/>
+            <part crc="58b21c76" name="sprm.1c"/>
+        </group>
+        <group width="32">
+            <part crc="a3755180" name="sprm.1e"/>
+            <part crc="f61cf012" name="sprm.3b"/>
+            <part crc="a95cb3e5" name="sprm.1b"/>
+            <part crc="a95cb3e5" name="sprm.1b"/>
+        </group>
+        <group width="32">
+            <part crc="e7f0e861" name="sprb.4k"/>
+            <part crc="8fbaf373" name="sprb.3p"/>
+            <part crc="cfe46a88" name="sprb.4c"/>
+            <part crc="cfe46a88" name="sprb.4c"/>
+        </group>
+        <group width="32">
+            <part crc="32663097" name="sprb.4f"/>
+            <part crc="37069b76" name="sprb.4p"/>
+            <part crc="11c48979" name="sprb.4e"/>
+            <part crc="11c48979" name="sprb.4e"/>
+        </group>
+        <group width="32">
+            <part crc="e7f0e861" name="sprb.4k"/>
+            <part crc="8fbaf373" name="sprb.3p"/>
+            <part crc="cfe46a88" name="sprb.4c"/>
+            <part crc="cfe46a88" name="sprb.4c"/>
+        </group>
+        <group width="32">
+            <part crc="32663097" name="sprb.4f"/>
+            <part crc="37069b76" name="sprb.4p"/>
+            <part crc="11c48979" name="sprb.4e"/>
+            <part crc="11c48979" name="sprb.4e"/>
+        </group>
+        <group width="32">
+            <part crc="d6d07d70" name="sprm.4m"/>
+            <part crc="239f2cd4" name="sprm.4l"/>
+            <part crc="4dfe2e63" name="sprm.4p"/>
+            <part crc="4dfe2e63" name="sprm.4p"/>
+        </group>
+        <part crc="8d8cccad" name="sprb.1m"/>
+        <part crc="c40e1cb2" name="sprb.1n"/>
+        <part crc="3ec46248" name="sprb.1l"/>
+        <part crc="fd8fa991" name="sprm.2k"/>
+        <part crc="0e3890b4" name="sprm.2j"/>
+        <part crc="0478082b" name="sprm.2h"/>
+        <part crc="fd8fa991" name="sprm.2k"/>
+        <part crc="0e3890b4" name="sprm.2j"/>
+        <part crc="0478082b" name="sprm.2h"/>
+        <part crc="746c6238" name="sprb.5p"/>
+    </rom>
+</misterromdescription>

@@ -1,0 +1,121 @@
+<misterromdescription>
+    <name>Lode Runner II - The Bungeling Strikes Back</name>
+    <mameversion>0219</mameversion>
+    <setname>LDRUN2</setname>
+    <mratimestamp>20200321170128</mratimestamp>
+    <year>1984</year>
+    <manufacturer>Irem (licensed from Broderbund)</manufacturer>
+    <category>Platform</category>
+    <rbf>IREMM62</rbf>
+    <switches>
+        <dip bits="8"     name="Timer" ids="Slow,Fast"/>
+        <dip bits="9"     name="Speed" ids="High,Low"/>
+        <dip bits="10,11" name="Lives" ids="3,2,4,5"/>
+    </switches>
+    <rom index="1">
+        <part>1</part>
+    </rom>
+    <rom index="0" zip="ldrun2.zip" md5="46dbb2c6765031bd796a2c62b64c4ba2">
+        <part crc="22313327" name="lr2-a-4e.a"/>
+        <part crc="ef645179" name="lr2-a-4d"/>
+        <part crc="b11ddf59" name="lr2-a-4a.a"/>
+        <part crc="470cc8a1" name="lr2-a-4a"/>
+        <part crc="7ebcadbc" name="lr2-h-1c.a"/>
+        <part crc="64cbb7f9" name="lr2-h-1d.a"/>
+        <part crc="64cbb7f9" name="lr2-h-1d.a"/>
+        <part crc="64cbb7f9" name="lr2-h-1d.a"/>
+        <part crc="22313327" name="lr2-a-4e.a"/>
+        <part crc="ef645179" name="lr2-a-4d"/>
+        <part crc="b11ddf59" name="lr2-a-4a.a"/>
+        <part crc="470cc8a1" name="lr2-a-4a"/>
+        <part crc="7ebcadbc" name="lr2-h-1c.a"/>
+        <part crc="64cbb7f9" name="lr2-h-1d.a"/>
+        <part crc="64cbb7f9" name="lr2-h-1d.a"/>
+        <part crc="64cbb7f9" name="lr2-h-1d.a"/>
+        <part repeat="0xa000">FF</part>
+        <part crc="853f3898" name="lr2-a-3e"/>
+        <part crc="7a96accd" name="lr2-a-3f"/>
+        <part crc="2a0e83ca" name="lr2-a-3h"/>
+        <group width="32">
+            <part crc="9d63a8ff" name="lr2-h-1e"/>
+            <part crc="40332bbd" name="lr2-h-1j"/>
+            <part crc="9404727d" name="lr2-h-1h"/>
+            <part crc="9404727d" name="lr2-h-1h"/>
+        </group>
+        <group width="32">
+            <part crc="9d63a8ff" name="lr2-h-1e"/>
+            <part crc="40332bbd" name="lr2-h-1j"/>
+            <part crc="9404727d" name="lr2-h-1h"/>
+            <part crc="9404727d" name="lr2-h-1h"/>
+        </group>
+        <group width="32">
+            <part crc="9d63a8ff" name="lr2-h-1e"/>
+            <part crc="40332bbd" name="lr2-h-1j"/>
+            <part crc="9404727d" name="lr2-h-1h"/>
+            <part crc="9404727d" name="lr2-h-1h"/>
+        </group>
+        <group width="32">
+            <part crc="9d63a8ff" name="lr2-h-1e"/>
+            <part crc="40332bbd" name="lr2-h-1j"/>
+            <part crc="9404727d" name="lr2-h-1h"/>
+            <part crc="9404727d" name="lr2-h-1h"/>
+        </group>
+        <group width="32">
+            <part crc="79909871" name="lr2-b-4k"/>
+            <part crc="3cc5893f" name="lr2-b-3n"/>
+            <part crc="fbe6d24c" name="lr2-b-4c"/>
+            <part crc="fbe6d24c" name="lr2-b-4c"/>
+        </group>
+        <group width="32">
+            <part crc="06ba1ef4" name="lr2-b-4f"/>
+            <part crc="49c12f42" name="lr2-b-4n"/>
+            <part crc="75172d1f" name="lr2-b-4e"/>
+            <part crc="75172d1f" name="lr2-b-4e"/>
+        </group>
+        <group width="32">
+            <part crc="79909871" name="lr2-b-4k"/>
+            <part crc="3cc5893f" name="lr2-b-3n"/>
+            <part crc="fbe6d24c" name="lr2-b-4c"/>
+            <part crc="fbe6d24c" name="lr2-b-4c"/>
+        </group>
+        <group width="32">
+            <part crc="06ba1ef4" name="lr2-b-4f"/>
+            <part crc="49c12f42" name="lr2-b-4n"/>
+            <part crc="75172d1f" name="lr2-b-4e"/>
+            <part crc="75172d1f" name="lr2-b-4e"/>
+        </group>
+        <group width="32">
+            <part crc="79909871" name="lr2-b-4k"/>
+            <part crc="3cc5893f" name="lr2-b-3n"/>
+            <part crc="fbe6d24c" name="lr2-b-4c"/>
+            <part crc="fbe6d24c" name="lr2-b-4c"/>
+        </group>
+        <group width="32">
+            <part crc="06ba1ef4" name="lr2-b-4f"/>
+            <part crc="49c12f42" name="lr2-b-4n"/>
+            <part crc="75172d1f" name="lr2-b-4e"/>
+            <part crc="75172d1f" name="lr2-b-4e"/>
+        </group>
+        <group width="32">
+            <part crc="79909871" name="lr2-b-4k"/>
+            <part crc="3cc5893f" name="lr2-b-3n"/>
+            <part crc="fbe6d24c" name="lr2-b-4c"/>
+            <part crc="fbe6d24c" name="lr2-b-4c"/>
+        </group>
+        <group width="32">
+            <part crc="06ba1ef4" name="lr2-b-4f"/>
+            <part crc="49c12f42" name="lr2-b-4n"/>
+            <part crc="75172d1f" name="lr2-b-4e"/>
+            <part crc="75172d1f" name="lr2-b-4e"/>
+        </group>
+        <part repeat="0x10000">FF</part>
+        <part crc="4ec9bb3d" name="lr2-b-1m"/>
+        <part crc="1daf1fa4" name="lr2-b-1n"/>
+        <part crc="c8fb708a" name="lr2-b-1l"/>
+        <part crc="2c5d834b" name="lr2-h-3m"/>
+        <part crc="3ae69aca" name="lr2-h-3l"/>
+        <part crc="2b28aec5" name="lr2-h-3n"/>
+        <part repeat="0x300">FF</part>
+        <part crc="e01f69e2" name="lr2-b-5p"/>
+    </rom>
+</misterromdescription>

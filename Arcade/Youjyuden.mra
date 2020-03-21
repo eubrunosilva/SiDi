@@ -1,0 +1,72 @@
+<misterromdescription>
+    <name>Youjyuden (Japan)</name>
+    <mameversion>0219</mameversion>
+    <setname>YOUJYUDN</setname>
+    <mratimestamp>20200321170128</mratimestamp>
+    <year>1986</year>
+    <manufacturer>Irem</manufacturer>
+    <category>Fighter / Warriors</category>
+    <rbf>IREMM62</rbf>
+    <switches>
+        <dip bits="8,9" name="Lives" ids="3,2,4,5"/>
+    </switches>
+    <rom index="1">
+        <part>0B</part>
+    </rom>
+    <rom index="0" zip="youjyudn.zip" md5="88142ed9adb6ffff9643cc7fa6bae82b">
+        <part crc="0d356bdc" name="yju_a4eb.bin"/>
+        <part crc="c169be13" name="yju_a4db.bin"/>
+        <part repeat="0x8000">FF</part>
+        <part crc="60baf3b1" name="yju_p4cb.0"/>
+        <part crc="8d0521f8" name="yju_p4eb.1"/>
+        <part repeat="0x8000">FF</part>
+        <part repeat="0xC000">FF</part>
+        <part crc="e15c8030" name="yju_a3fb.bin"/>
+        <group width="32">
+            <part crc="c017913c" name="yju_p3bb.0"/>
+            <part crc="94627523" name="yju_p1bb.1"/>
+            <part crc="6a378c56" name="yju_p1cb.2"/>
+            <part crc="6a378c56" name="yju_p1cb.2"/>
+        </group>
+        <group width="32">
+            <part crc="1bbb864a" name="yju_b4ka.00"/>
+            <part crc="68879321" name="yju_b3na.10"/>
+            <part crc="ab365829" name="yju_b4ca.20"/>
+            <part crc="ab365829" name="yju_b4ca.20"/>
+        </group>
+        <group width="32">
+            <part crc="14b4dd24" name="yju_b4fa.01"/>
+            <part crc="2860a68b" name="yju_b4na.11"/>
+            <part crc="b36c31e4" name="yju_b4ea.21"/>
+            <part crc="b36c31e4" name="yju_b4ea.21"/>
+        </group>
+        <group width="32">
+            <part crc="1bbb864a" name="yju_b4ka.00"/>
+            <part crc="68879321" name="yju_b3na.10"/>
+            <part crc="ab365829" name="yju_b4ca.20"/>
+            <part crc="ab365829" name="yju_b4ca.20"/>
+        </group>
+        <group width="32">
+            <part crc="14b4dd24" name="yju_b4fa.01"/>
+            <part crc="2860a68b" name="yju_b4na.11"/>
+            <part crc="b36c31e4" name="yju_b4ea.21"/>
+            <part crc="b36c31e4" name="yju_b4ea.21"/>
+        </group>
+        <group width="32">
+            <part crc="b4ab520b" name="yju_p4pb.0"/>
+            <part crc="1e1a0d09" name="yju_p4mb.1"/>
+            <part crc="87878d9b" name="yju_p4lb.2"/>
+            <part crc="87878d9b" name="yju_p4lb.2"/>
+        </group>
+        <part crc="a8340e13" name="yju_b1ma.r"/>
+        <part crc="f5b4bc41" name="yju_b1na.g"/>
+        <part crc="45e10491" name="yju_b1la.b"/>
+        <part crc="a4483631" name="yju_p2jb.bpr"/>
+        <part crc="85481103" name="yju_p2kb.bpr"/>
+        <part crc="a6fd355c" name="yju_p2hb.bpr"/>
+        <part crc="a4483631" name="yju_p2jb.bpr"/>
+        <part crc="85481103" name="yju_p2kb.bpr"/>
+        <part crc="a6fd355c" name="yju_p2hb.bpr"/>
+        <part crc="2095e6a3" name="yju_b-5p.bpr"/>
+    </rom>
+</misterromdescription>

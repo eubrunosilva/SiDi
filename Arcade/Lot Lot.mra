@@ -1,0 +1,118 @@
+<misterromdescription>
+    <name>Lot Lot</name>
+    <mameversion>0219</mameversion>
+    <setname>LOTLOT</setname>
+    <mratimestamp>20200321170128</mratimestamp>
+    <year>1985</year>
+    <manufacturer>Irem (licensed from Tokuma Shoten)</manufacturer>
+    <category>Puzzle</category>
+    <rbf>IREMM62</rbf>
+    <rom index="1">
+        <part>8</part>
+    </rom>
+    <rom index="0" zip="lotlot.zip" md5="a978e14b016435a0cf75ac70be20fc04">
+        <part crc="2913d08f" name="lot-a-4e"/>
+        <part crc="0443095f" name="lot-a-4d"/>
+        <part crc="2913d08f" name="lot-a-4e"/>
+        <part crc="0443095f" name="lot-a-4d"/>
+        <part crc="2913d08f" name="lot-a-4e"/>
+        <part crc="0443095f" name="lot-a-4d"/>
+        <part crc="2913d08f" name="lot-a-4e"/>
+        <part crc="0443095f" name="lot-a-4d"/>
+        <part crc="0781cee7" repeat="8" name="lot-a-3h"/>
+        <group width="32">
+            <part crc="1b3695f4" name="lot-k-4a"/>
+            <part crc="bd2b0730" name="lot-k-4c"/>
+            <part crc="930ddd55" name="lot-k-4b"/>
+            <part crc="930ddd55" name="lot-k-4b"/>
+        </group>
+        <group width="32">
+            <part crc="1b3695f4" name="lot-k-4a"/>
+            <part crc="bd2b0730" name="lot-k-4c"/>
+            <part crc="930ddd55" name="lot-k-4b"/>
+            <part crc="930ddd55" name="lot-k-4b"/>
+        </group>
+        <group width="32">
+            <part crc="1b3695f4" name="lot-k-4a"/>
+            <part crc="bd2b0730" name="lot-k-4c"/>
+            <part crc="930ddd55" name="lot-k-4b"/>
+            <part crc="930ddd55" name="lot-k-4b"/>
+        </group>
+        <group width="32">
+            <part crc="1b3695f4" name="lot-k-4a"/>
+            <part crc="bd2b0730" name="lot-k-4c"/>
+            <part crc="930ddd55" name="lot-k-4b"/>
+            <part crc="930ddd55" name="lot-k-4b"/>
+        </group>
+        <group width="32">
+            <part crc="fd27cb90" name="lot-b-4k"/>
+            <part crc="bd486fff" name="lot-b-3n"/>
+            <part crc="3026ee6c" name="lot-b-4c"/>
+            <part crc="3026ee6c" name="lot-b-4c"/>
+        </group>
+        <group width="32">
+            <part crc="fd27cb90" name="lot-b-4k"/>
+            <part crc="bd486fff" name="lot-b-3n"/>
+            <part crc="3026ee6c" name="lot-b-4c"/>
+            <part crc="3026ee6c" name="lot-b-4c"/>
+        </group>
+        <group width="32">
+            <part crc="fd27cb90" name="lot-b-4k"/>
+            <part crc="bd486fff" name="lot-b-3n"/>
+            <part crc="3026ee6c" name="lot-b-4c"/>
+            <part crc="3026ee6c" name="lot-b-4c"/>
+        </group>
+        <group width="32">
+            <part crc="fd27cb90" name="lot-b-4k"/>
+            <part crc="bd486fff" name="lot-b-3n"/>
+            <part crc="3026ee6c" name="lot-b-4c"/>
+            <part crc="3026ee6c" name="lot-b-4c"/>
+        </group>
+        <group width="32">
+            <part crc="fd27cb90" name="lot-b-4k"/>
+            <part crc="bd486fff" name="lot-b-3n"/>
+            <part crc="3026ee6c" name="lot-b-4c"/>
+            <part crc="3026ee6c" name="lot-b-4c"/>
+        </group>
+        <group width="32">
+            <part crc="fd27cb90" name="lot-b-4k"/>
+            <part crc="bd486fff" name="lot-b-3n"/>
+            <part crc="3026ee6c" name="lot-b-4c"/>
+            <part crc="3026ee6c" name="lot-b-4c"/>
+        </group>
+        <group width="32">
+            <part crc="fd27cb90" name="lot-b-4k"/>
+            <part crc="bd486fff" name="lot-b-3n"/>
+            <part crc="3026ee6c" name="lot-b-4c"/>
+            <part crc="3026ee6c" name="lot-b-4c"/>
+        </group>
+        <group width="32">
+            <part crc="fd27cb90" name="lot-b-4k"/>
+            <part crc="bd486fff" name="lot-b-3n"/>
+            <part crc="3026ee6c" name="lot-b-4c"/>
+            <part crc="3026ee6c" name="lot-b-4c"/>
+        </group>
+        <group width="32">
+            <part crc="3b7d95ba" name="lot-k-4p"/>
+            <part crc="f98dca1f" name="lot-k-4l"/>
+            <part crc="f0cd76a5" name="lot-k-4n"/>
+            <part crc="f0cd76a5" name="lot-k-4n"/>
+        </group>
+        <group width="32">
+            <part crc="3b7d95ba" name="lot-k-4p"/>
+            <part crc="f98dca1f" name="lot-k-4l"/>
+            <part crc="f0cd76a5" name="lot-k-4n"/>
+            <part crc="f0cd76a5" name="lot-k-4n"/>
+        </group>
+        <part crc="c146461d" name="lot-b-1m"/>
+        <part crc="01e07db6" name="lot-b-1n"/>
+        <part crc="8b6fcde3" name="lot-b-1l"/>
+        <part crc="b820a05e" name="lot-k-2f"/>
+        <part crc="9b1fa005" name="lot-k-2e"/>
+        <part crc="315ed9a8" name="lot-k-2d"/>
+        <part crc="ac3e230d" name="lot-k-2l"/>
+        <part crc="1811ad2b" name="lot-k-2k"/>
+        <part crc="e791ef2a" name="lot-k-2j"/>
+        <part crc="110b21fd" name="lot-b-5p"/>
+    </rom>
+</misterromdescription>

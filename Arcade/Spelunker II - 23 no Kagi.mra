@@ -1,0 +1,73 @@
+<misterromdescription>
+    <name>Spelunker II - 23 no Kagi (Japan)</name>
+    <mameversion>0219</mameversion>
+    <setname>SPELUNK2</setname>
+    <mratimestamp>20200321170128</mratimestamp>
+    <year>1986</year>
+    <manufacturer>Irem (licensed from Broderbund)</manufacturer>
+    <category>Adventure</category>
+    <category>Platform / Extra</category>
+    <rbf>IREMM62</rbf>
+    <switches>
+        <dip bits="8,9"   name="Timer" ids="Slow,Medium,Fast,Fastest"/>
+        <dip bits="10,11" name="Lives" ids="3,2,4,5"/>
+    </switches>
+    <rom index="1">
+        <part>0A</part>
+    </rom>
+    <rom index="0" zip="spelunk2.zip" md5="5052a1aaf3f39b0a40babfcc00e9652d">
+        <part crc="96c04bbb" name="sp2-a.4e"/>
+        <part crc="cb38c2ff" name="sp2-a.4d"/>
+        <part crc="7709a1fe" name="sp2-r.7b"/>
+        <part repeat="0x4000">FF</part>
+        <part crc="558837ea" name="sp2-r.7d"/>
+        <part crc="4b380162" name="sp2-r.7c"/>
+        <part repeat="0x8000">FF</part>
+        <part crc="839ec7e2" name="sp2-a.3d"/>
+        <part crc="ad3ce898" name="sp2-a.3f"/>
+        <group width="32">
+            <part crc="c19fa4c9" name="sp2-r.1d"/>
+            <part crc="366604af" name="sp2-r.3b"/>
+            <part crc="3a0c4d47" name="sp2-r.1b"/>
+            <part crc="3a0c4d47" name="sp2-r.1b"/>
+        </group>
+        <group width="32">
+            <part crc="6cb67a17" name="sp2-b.4k"/>
+            <part crc="f59e8b76" name="sp2-b.3n"/>
+            <part crc="1caf7013" name="sp2-b.4c"/>
+            <part crc="1caf7013" name="sp2-b.4c"/>
+        </group>
+        <group width="32">
+            <part crc="e4a1166f" name="sp2-b.4f"/>
+            <part crc="fa65bac9" name="sp2-b.4n"/>
+            <part crc="780a463b" name="sp2-b.4e"/>
+            <part crc="780a463b" name="sp2-b.4e"/>
+        </group>
+        <group width="32">
+            <part crc="6cb67a17" name="sp2-b.4k"/>
+            <part crc="f59e8b76" name="sp2-b.3n"/>
+            <part crc="1caf7013" name="sp2-b.4c"/>
+            <part crc="1caf7013" name="sp2-b.4c"/>
+        </group>
+        <group width="32">
+            <part crc="e4a1166f" name="sp2-b.4f"/>
+            <part crc="fa65bac9" name="sp2-b.4n"/>
+            <part crc="780a463b" name="sp2-b.4e"/>
+            <part crc="780a463b" name="sp2-b.4e"/>
+        </group>
+        <group width="32">
+            <part crc="fc138e13" name="sp2-r.4p"/>
+            <part crc="e1368b61" name="sp2-r.4m"/>
+            <part crc="6a4b2d8b" name="sp2-r.4l"/>
+            <part crc="6a4b2d8b" name="sp2-r.4l"/>
+        </group>
+        <part crc="906104c7" name="sp2-b.1m"/>
+        <part crc="5a564c06" name="sp2-b.1n"/>
+        <part crc="8f4a2e3c" name="sp2-b.1l"/>
+        <part crc="31c1bcdc" name="sp2-r.1k"/>
+        <part crc="1cf5987e" name="sp2-r.2k"/>
+        <part crc="1acbe2a5" name="sp2-r.2j"/>
+        <part repeat="0x200">FF</part>
+        <part crc="cd126f6a" name="sp2-b.5p"/>
+    </rom>
+</misterromdescription>

@@ -1,0 +1,74 @@
+<misterromdescription>
+    <name>Kid Niki - Radical Ninja (US)</name>
+    <mameversion>0219</mameversion>
+    <setname>KIDNIKIU</setname>
+    <mratimestamp>20200321170128</mratimestamp>
+    <year>1986</year>
+    <manufacturer>Irem (Data East USA license)</manufacturer>
+    <category>Fighter / Asian</category>
+    <rbf>IREMM62</rbf>
+    <switches>
+        <dip bits="8,9" name="Lives"      ids="3,2,4,5"/>
+        <dip bits="10"  name="Difficulty" ids="Normal,Hard"/>
+        <dip bits="11"  name="Bonus Life" ids="50000,80000"/>
+    </switches>
+    <rom index="1">
+        <part>7</part>
+    </rom>
+    <rom index="0" zip="kidniki.zip|kidnikiu.zip" md5="6b69136af692d23eb4faaa0659fa7661">
+        <part crc="80431858" name="dr04.4e"/>
+        <part crc="dba20934" name="dr03.4cd"/>
+        <part crc="04d82d93" name="dr11.8k"/>
+        <part crc="c0b255fd" name="dr12.8l"/>
+        <part repeat="0x4000">FF</part>
+        <part crc="458309f7" name="dr00.3a"/>
+        <part crc="e66897bd" name="dr01.3cd"/>
+        <part crc="f9e31e26" name="dr02.3f"/>
+        <group width="32">
+            <part crc="4d9a970f" name="dr06.2b"/>
+            <part crc="ab59a4c4" name="dr07.2dc"/>
+            <part crc="2e6dad0c" name="dr05.2a"/>
+            <part crc="2e6dad0c" name="dr05.2a"/>
+        </group>
+        <group width="32">
+            <part crc="a06cea9a" name="dr21.4k"/>
+            <part crc="76cfbcbc" name="dr14.3p"/>
+            <part crc="f1d1bb93" name="dr16.4cb"/>
+            <part crc="f1d1bb93" name="dr16.4cb"/>
+        </group>
+        <group width="32">
+            <part crc="b34605ad" name="dr19.4f"/>
+            <part crc="d51c8db5" name="dr24.4p"/>
+            <part crc="edb7f25b" name="dr18.4e"/>
+            <part crc="edb7f25b" name="dr18.4e"/>
+        </group>
+        <group width="32">
+            <part crc="41303de8" name="dr22.4l"/>
+            <part crc="03469df8" name="dr23.4nm"/>
+            <part crc="4fb87868" name="dr17.4dc"/>
+            <part crc="4fb87868" name="dr17.4dc"/>
+        </group>
+        <group width="32">
+            <part crc="5fbe6f61" name="dr20.4jh"/>
+            <part crc="d5c3dfe0" name="dr13.3nm"/>
+            <part crc="e0b88de5" name="dr15.4a"/>
+            <part crc="e0b88de5" name="dr15.4a"/>
+        </group>
+        <group width="32">
+            <part crc="820ce252" name="dr10.4n"/>
+            <part crc="17df6f95" name="dr09.4m"/>
+            <part crc="32d50643" name="dr08.4l"/>
+            <part crc="32d50643" name="dr08.4l"/>
+        </group>
+        <part crc="28c73263" name="dr30.1m"/>
+        <part crc="3529210e" name="dr31.1n"/>
+        <part crc="1173a754" name="dr29.1l"/>
+        <part crc="8e91430b" name="dr25.3f"/>
+        <part crc="b563b93f" name="dr26.3h"/>
+        <part crc="70d668ef" name="dr27.3j"/>
+        <part crc="8e91430b" name="dr25.3f"/>
+        <part crc="b563b93f" name="dr26.3h"/>
+        <part crc="70d668ef" name="dr27.3j"/>
+        <part crc="11cd1f2e" name="dr32.5p"/>
+    </rom>
+</misterromdescription>

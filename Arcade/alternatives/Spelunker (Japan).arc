@@ -1,0 +1,6 @@
+[ARC]
+RBF=IREMM62
+MOD=9
+NAME=SPELUKRJ
+CONF="O89,Timer,Slow,Medium,Fast,Fastest"
+CONF="OAB,Lives,3,2,4,5"

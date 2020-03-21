@@ -1,0 +1,76 @@
+<misterromdescription>
+    <name>Lode Runner IV - Teikoku Karano Dasshutsu (Japan)</name>
+    <mameversion>0219</mameversion>
+    <setname>LDRUN4</setname>
+    <mratimestamp>20200321170128</mratimestamp>
+    <year>1986</year>
+    <manufacturer>Irem (licensed from Broderbund)</manufacturer>
+    <category>Platform</category>
+    <rbf>IREMM62</rbf>
+    <switches>
+        <dip bits="6"     name="Joystick Swap"  ids="Off,On"/>
+        <dip bits="8"     name="Timer"          ids="Slow,Fast"/>
+        <dip bits="9"     name="2 Players"      ids="2 Credits, 1 Credit"/>
+        <dip bits="10,11" name="1 Player Lives" ids="3,2,4,5"/>
+    </switches>
+    <rom index="1">
+        <part>3</part>
+    </rom>
+    <rom index="0" zip="ldrun4.zip" md5="cd633975a81980cefe104543024cc7ee">
+        <part crc="5383e9bf" name="lr4-a-4e"/>
+        <part crc="298afa36" name="lr4-a-4d.c"/>
+        <part crc="8b248abd" name="lr4-v-4k"/>
+        <part crc="5383e9bf" name="lr4-a-4e"/>
+        <part crc="298afa36" name="lr4-a-4d.c"/>
+        <part crc="8b248abd" name="lr4-v-4k"/>
+        <part crc="86c6d445" name="lr4-a-3d"/>
+        <part crc="097c6c0a" name="lr4-a-3f"/>
+        <part crc="86c6d445" name="lr4-a-3d"/>
+        <part crc="097c6c0a" name="lr4-a-3f"/>
+        <group width="32">
+            <part crc="4118e60a" name="lr4-v-2b"/>
+            <part crc="542bb5b5" name="lr4-v-2d"/>
+            <part crc="c765266c" name="lr4-v-2c"/>
+            <part crc="c765266c" name="lr4-v-2c"/>
+        </group>
+        <group width="32">
+            <part crc="4118e60a" name="lr4-v-2b"/>
+            <part crc="542bb5b5" name="lr4-v-2d"/>
+            <part crc="c765266c" name="lr4-v-2c"/>
+            <part crc="c765266c" name="lr4-v-2c"/>
+        </group>
+        <group width="32">
+            <part crc="e7fe620c" name="lr4-b-4k"/>
+            <part crc="ad1fba1b" name="lr4-b-3n"/>
+            <part crc="82c53669" name="lr4-b-4c"/>
+            <part crc="82c53669" name="lr4-b-4c"/>
+        </group>
+        <group width="32">
+            <part crc="6f0403db" name="lr4-b-4f"/>
+            <part crc="0e568fab" name="lr4-b-4n"/>
+            <part crc="767a1352" name="lr4-b-4e"/>
+            <part crc="767a1352" name="lr4-b-4e"/>
+        </group>
+        <group width="32">
+            <part crc="e7fe620c" name="lr4-b-4k"/>
+            <part crc="ad1fba1b" name="lr4-b-3n"/>
+            <part crc="82c53669" name="lr4-b-4c"/>
+            <part crc="82c53669" name="lr4-b-4c"/>
+        </group>
+        <group width="32">
+            <part crc="6f0403db" name="lr4-b-4f"/>
+            <part crc="0e568fab" name="lr4-b-4n"/>
+            <part crc="767a1352" name="lr4-b-4e"/>
+            <part crc="767a1352" name="lr4-b-4e"/>
+        </group>
+        <part repeat="0x10000">FF</part>
+        <part crc="5d8d17d0" name="lr4-b-1m"/>
+        <part crc="da1129d2" name="lr4-b-1n"/>
+        <part crc="0d89b692" name="lr4-b-1l"/>
+        <part crc="fe51bf1d" name="lr4-v-1m"/>
+        <part crc="da0658e5" name="lr4-v-1n"/>
+        <part crc="0df23ebe" name="lr4-v-1p"/>
+        <part repeat="0x300">FF</part>
+        <part crc="e01f69e2" name="lr4-b-5p"/>
+    </rom>
+</misterromdescription>

@@ -1,0 +1,88 @@
+<misterromdescription>
+    <name>Horizon (Irem)</name>
+    <mameversion>0219</mameversion>
+    <setname>HORIZON</setname>
+    <mratimestamp>20200321170128</mratimestamp>
+    <year>1985</year>
+    <manufacturer>Irem</manufacturer>
+    <category>Space / Moon</category>
+    <rbf>IREMM62</rbf>
+    <switches>
+        <dip bits="8,9"   name="Lives"      ids="3,5,4,2"/>
+        <dip bits="10,11" name="Bonus Life" ids="40k/80k,60k/100k,80k/120k,100k/80k"/>
+    </switches>
+    <rom index="1">
+        <part>5</part>
+    </rom>
+    <rom index="0" zip="horizon.zip" md5="573ef5ced961ede734cdde94153fcb7a">
+        <part crc="98b96ba2" name="hrza-4e"/>
+        <part crc="06b06ac7" name="hrza-4d"/>
+        <part crc="39c0bd02" name="hrza-4b"/>
+        <part crc="39c0bd02" name="hrza-4b"/>
+        <part crc="98b96ba2" name="hrza-4e"/>
+        <part crc="06b06ac7" name="hrza-4d"/>
+        <part crc="39c0bd02" name="hrza-4b"/>
+        <part crc="39c0bd02" name="hrza-4b"/>
+        <part crc="7412c99f" name="hrza-3f"/>
+        <part crc="7412c99f" name="hrza-3f"/>
+        <part crc="7412c99f" name="hrza-3f"/>
+        <part crc="7412c99f" name="hrza-3f"/>
+        <group width="32">
+            <part crc="b93ed581" name="hrzd-4d"/>
+            <part crc="1cf73b53" name="hrzd-4c"/>
+            <part crc="eace8d53" name="hrzd-4a"/>
+            <part crc="eace8d53" name="hrzd-4a"/>
+        </group>
+        <group width="32">
+            <part crc="b93ed581" name="hrzd-4d"/>
+            <part crc="1cf73b53" name="hrzd-4c"/>
+            <part crc="eace8d53" name="hrzd-4a"/>
+            <part crc="eace8d53" name="hrzd-4a"/>
+        </group>
+        <group width="32">
+            <part crc="b93ed581" name="hrzd-4d"/>
+            <part crc="1cf73b53" name="hrzd-4c"/>
+            <part crc="eace8d53" name="hrzd-4a"/>
+            <part crc="eace8d53" name="hrzd-4a"/>
+        </group>
+        <group width="32">
+            <part crc="b93ed581" name="hrzd-4d"/>
+            <part crc="1cf73b53" name="hrzd-4c"/>
+            <part crc="eace8d53" name="hrzd-4a"/>
+            <part crc="eace8d53" name="hrzd-4a"/>
+        </group>
+        <group width="32">
+            <part crc="11d2f3a1" name="hrzb-4k.00"/>
+            <part crc="87078a02" name="hrzb-3n.10"/>
+            <part crc="90b385e7" name="hrzb-4c.20"/>
+            <part crc="90b385e7" name="hrzb-4c.20"/>
+        </group>
+        <group width="32">
+            <part crc="356902ea" name="hrzb-4f.01"/>
+            <part crc="5019cb1f" name="hrzb-4n.11"/>
+            <part crc="d05d77a2" name="hrzb-4e.21"/>
+            <part crc="d05d77a2" name="hrzb-4e.21"/>
+        </group>
+        <group width="32">
+            <part crc="11d2f3a1" name="hrzb-4k.00"/>
+            <part crc="87078a02" name="hrzb-3n.10"/>
+            <part crc="90b385e7" name="hrzb-4c.20"/>
+            <part crc="90b385e7" name="hrzb-4c.20"/>
+        </group>
+        <group width="32">
+            <part crc="356902ea" name="hrzb-4f.01"/>
+            <part crc="5019cb1f" name="hrzb-4n.11"/>
+            <part crc="d05d77a2" name="hrzb-4e.21"/>
+            <part crc="d05d77a2" name="hrzb-4e.21"/>
+        </group>
+        <part repeat="0x10000">FF</part>
+        <part crc="0871690a" name="hrzb-1m.r"/>
+        <part crc="f247d0a9" name="hrzb-1n.g"/>
+        <part crc="9ad0a0c8" name="hrzb-1l.b"/>
+        <part crc="b33b08f9" name="hrzd-1d"/>
+        <part crc="6e696f3a" name="hrzd-1c"/>
+        <part crc="1fa60379" name="hrzd-1e"/>
+        <part repeat="0x300">FF</part>
+        <part crc="208b49e9" name="hrzb-5p"/>
+    </rom>
+</misterromdescription>
